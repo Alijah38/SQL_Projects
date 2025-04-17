@@ -1,0 +1,34 @@
+
+# Tech Layoffs Data SQL Cleaning
+
+### Dataset Link : https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
+## Problem Statement
+
+This project demonstrates the process of cleaning and preparing data from Layoffs in the Technology industry due to COVID from 2020 to 2024 using SQL. The original dataset contains inconsistencies, null values, duplicates, and formatting issues that need to be resolved before the data can be used for analysis or reporting.
+
+The cleaning process is performed entirely using SQL queries, showcasing best practices in data wrangling within a relational database environment.
+
+
+### Steps followed 
+
+Removed duplicate rows
+
+Standardized column names (converted to lowercase, used underscores)
+
+Handled null and missing values
+
+Filled or removed rows with missing host_name, last_review, etc.
+
+Converted data types
+
+Filtered out outliers
+
+Created a cleaned table for analysis
+
+*All transformations are stored in a script and can be replicated step-by-step.
+
+### Tech Stack
+
+SQL(MySQL)
+DB Tool: MySQL Workbench
