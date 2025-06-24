@@ -1,6 +1,6 @@
 -- SQL Project - Data Cleaning
 
--- https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
+-- LINK TO DOWNLOAD EXCEL FILE: https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
 
 
 
