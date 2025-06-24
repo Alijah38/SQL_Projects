@@ -1,6 +1,6 @@
 -- SQL Project - Data Cleaning
 
--- https://www.kaggle.com/datasets/swaptr/layoffs-2022
+-- LINK TO DOWNLOAD EXCEL FILE: https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 
 -- CREATED AN ALT TABLE TO DO CLEANING
