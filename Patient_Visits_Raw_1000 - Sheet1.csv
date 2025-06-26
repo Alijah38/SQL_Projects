@@ -1,0 +1,1001 @@
+Patient_ID,Full_Name,Date_of_Visit,Age,Gender,Diagnosis_Code,Blood_Pressure,Heart_Rate,Doctor,Charges ($),Insurance Provider,Notes
+1000,Stephen Walker,05-17-1992,,Male,Z00.0,138 / 84,67,Dr. Smith,399.21,BlueCross,Missing lab results
+1001,Kaitlyn Evans,2020.11.17,77,MALE,I10,132/80,,,333.43,BlueCross,N/A
+1002,Kevin Obrien,1978.11.10,,Female,E78.5,112 / 91,,Dr. Jones,264.1,Aetna,Follow-up in 2 weeks
+1003,Lisa Douglas,"Mar 16, 2009",,F,E11.9,139/75,,Dr. Patel,498.05,BlueCross,-
+1004,Stacy Evans,10-30-1978,,Female,E11.9,131 / 81,84,Dr. Adams,$381.19,Aetna,Missing lab results
+1005,Lee Young,2000/03/16,,Female,J45,137 / 85,,Dr. Smith,272.65,BlueCross,-
+1006,Christina Smith,1982.01.09,,F,Z00.0,,66,Dr. Smith,362.62,AETNA,Complaint: headaches
+1007,Brooke Rosales,1998.11.28,,Female,E78.5,134/83,,,274.42,united health,N/A
+1008,Monique Rogers,"Jan 26, 1977",,Male,E11.9,116 / 81,67,Dr. Smith,293.34,AETNA,Follow-up in 1 month
+1009,Aimee Suarez,"Feb 14, 2016",,Male,E11.9,149/73,,Dr. Patel,380.02,AETNA,Follow-up in 2 weeks
+1010,Jasmine Cook,1994/12/06,,Female,,138/87,,Dr. Smith,$484.87,BCBS,Follow-up in 1 month
+1011,Tammie Hall,1982.07.14,,F,I10,140 / 85,,Dr. Patel,$392.61,Blue cross,Missing lab results
+1012,Allen Stewart,11-30-1987,79,MALE,J45,149 / 90,75,Dr. Patel,317.84,united health,Follow-up in 1 month
+1013,Savannah Holden,01-23-2000,,F,R51,135/94,88,Dr. Adams,$291.32,united health,
+1014,Marc Peters,08-08-2017,,female,I10,134/76,,Dr. Jones,$348.72,AETNA,-
+1015,Tiffany Gray,1975.04.15,,MALE,I25.10,120 / 88,,Dr. Jones,432.25,,Complaint: headaches
+1016,Alexander Rivas,2023.11.06,52,Male,E11.9,,,Dr. Jones,$278.97,AETNA,N/A
+1017,Robert Montgomery,03-07-2016,26,F,E78.5,117 / 81,93,Dr. Smith,265.89,BlueCross,Missing lab results
+1018,Benjamin Allison,1973.01.14,,F,I25.10,133 / 74,,,,,Needs prescription refill
+1019,Amanda Taylor,1987/10/22,,female,,149 / 91,86,Dr. Adams,368.05,BlueCross,Follow-up for physical
+1020,Larry Sanford,1994.05.03,56,F,,123/72,,Dr. Smith,$440.2,Blue cross,-
+1021,April Kim,"Jan 26, 1991",45,MALE,E78.5,123 / 76,,Dr. Smith,260.11,Aetna,-
+1022,Joseph Buck,06-09-1980,34,F,J45,135 / 79,72,Dr. Jones,,Blue cross,Missing lab results
+1023,Melissa Kennedy,2022/03/05,51,Female,R51,141/73,89,Dr. Adams,312.32,Aetna,
+1024,Jonathan Gonzales,"Dec 07, 1981",64,MALE,Z00.0,138 / 73,,Dr. Patel,$399.72,BCBS,Needs prescription refill
+1025,Kelly White,2015.07.10,,female,R51,137/71,,,450.92,BlueCross,Missing lab results
+1026,Elizabeth Skinner,2002/11/20,,Male,I10,139 / 80,87,Dr. Adams,329.5,,Follow-up in 1 month
+1027,Mason Griffin,"Jan 19, 2009",52,female,J45,136/94,72,Dr. Adams,$326.2,UnitedHealthCare,Follow-up in 2 weeks
+1028,Angel Peterson II,12-07-2001,,Female,E11.9,136/78,96,Dr. Smith,279.97,united health,N/A
+1029,Rhonda Eaton,2022/01/05,,Male,J45,124 / 91,,Dr. Adams,389.53,Blue cross,Complaint: headaches
+1030,Sarah Gomez,"Jul 16, 2008",71,Female,E78.5,121 / 76,61,Dr. Adams,325.22,,Follow-up for physical
+1031,Bethany Thomas,"Apr 25, 1976",,M,R51,126 / 86,,Dr. Smith,$352.76,Aetna,N/A
+1032,Darlene Trujillo,1982/09/12,,MALE,F32.9,132/74,91,Dr. Smith,408.59,united health,Needs prescription refill
+1033,Ray Wright,"Aug 02, 1972",21,Male,,135/75,91,Dr. Adams,$418.03,UnitedHealthCare,
+1034,Darlene Rodriguez,"Jul 15, 1999",,Male,Z00.0,126/75,83,Dr. Patel,$408.08,,N/A
+1035,Vincent Smith,2001.10.06,,Male,Z00.0,120 / 85,75,Dr. Patel,287.68,united health,Follow-up in 1 month
+1036,Claire Scott,08-18-2000,,female,J45,125 / 72,,Dr. Smith,419.39,united health,Needs prescription refill
+1037,Robert Henry,07-01-1984,,Female,I10,,,Dr. Smith,$274.04,,
+1038,Mary Morgan,06-09-1996,60,F,I25.10,149 / 76,,Dr. Jones,$284.38,AETNA,Follow-up in 2 weeks
+1039,Angela Stephens,2013.05.24,47,Male,I25.10,134 / 87,82,Dr. Smith,469.33,AETNA,
+1040,David Cruz,2002.06.23,54,MALE,I25.10,125/85,61,Dr. Patel,273.28,Aetna,Follow-up in 1 month
+1041,Desiree Livingston,12-17-1984,31,M,I25.10,,68,Dr. Patel,337.3,Blue cross,N/A
+1042,Jacob Fields,1975/09/18,,female,J45,112 / 89,,Dr. Smith,$444.97,,Complaint: headaches
+1043,Brooke Moore,06-22-1977,,MALE,F32.9,120/86,,,474.64,,Follow-up in 1 month
+1044,Christina Robinson,1977/12/14,,M,F32.9,144 / 85,84,,493.42,BCBS,
+1045,Brian Nelson,1977.04.21,,MALE,I10,,,,$498.61,UnitedHealthCare,-
+1046,Johnny West,04-12-2015,55,F,Z00.0,113/70,73,Dr. Jones,294.71,BlueCross,Follow-up for physical
+1047,Timothy Hardy,09-27-1994,,female,I10,117/76,62,Dr. Jones,$327.02,AETNA,Missing lab results
+1048,Danielle Garcia,1996/12/11,,M,R51,131/92,,Dr. Jones,$397.47,Aetna,Missing lab results
+1049,Victoria Lopez,1971/10/30,57,MALE,F32.9,117/71,,Dr. Adams,337.52,Blue cross,
+1050,Christian Gonzales,"Mar 22, 1979",,F,R51,,,Dr. Jones,256.08,Blue cross,Complaint: headaches
+1051,Amanda Vargas,1992.08.24,,F,J45,126/81,,Dr. Patel,488.48,AETNA,Depression screening
+1052,Andrew Clark,1974.04.03,,MALE,Z00.0,144 / 78,,Dr. Patel,$332.69,AETNA,
+1053,Matthew Mullins,1978/10/11,65,F,R51,140 / 72,,Dr. Patel,323.61,Aetna,Follow-up in 1 month
+1054,Brian Hughes,2008/09/19,,Female,E11.9,132 / 70,,Dr. Adams,343.17,AETNA,Depression screening
+1055,Brittney Smith,1971.08.07,61,Female,F32.9,112 / 77,,,403.75,UnitedHealthCare,Follow-up for physical
+1056,Emily Jordan,2020.02.13,41,M,E78.5,111 / 79,,Dr. Smith,435.19,united health,-
+1057,Amy Guzman,02-06-1994,52,MALE,,148/79,85,Dr. Patel,$314.05,BlueCross,Follow-up in 1 month
+1058,Caleb Morris,2020.07.20,43,Male,,116/94,95,,$298.57,Aetna,Depression screening
+1059,Debra Phillips,11-29-2019,,Female,I10,125/83,71,Dr. Jones,$334.5,BlueCross,N/A
+1060,Kathryn Walker,1985.08.28,,M,E11.9,111 / 92,81,Dr. Smith,366.4,,Depression screening
+1061,Michael Phillips,1986/06/18,,MALE,F32.9,131/86,65,Dr. Jones,$340.05,united health,Needs prescription refill
+1062,Franklin Warner,"Aug 09, 2011",79,Female,,,,,442.5,BlueCross,-
+1063,Jamie Khan,1976/09/30,,female,I25.10,,,Dr. Patel,262.92,united health,Complaint: headaches
+1064,Sabrina Marshall,2002/11/28,,female,J45,144/92,,Dr. Adams,284.59,Aetna,Depression screening
+1065,Phillip Hancock,"Jul 15, 2020",35,M,F32.9,139/88,,Dr. Jones,317.71,UnitedHealthCare,
+1066,Deborah Vaughn,11-14-2006,,Female,I10,137/92,85,Dr. Jones,$296.08,AETNA,Needs prescription refill
+1067,Angelica Sanchez,1992.05.10,42,F,I25.10,118 / 81,,Dr. Patel,478.8,UnitedHealthCare,Complaint: headaches
+1068,Valerie Taylor,1984/02/22,,F,,,,Dr. Patel,428.65,,Follow-up in 1 month
+1069,Madison Singh,09-10-1993,59,MALE,I25.10,110 / 85,,,388.59,united health,Needs prescription refill
+1070,Lori Davies,1996.11.28,41,F,I25.10,112/81,,Dr. Adams,289.66,BlueCross,Follow-up in 1 month
+1071,Jacob Weber,04-05-2013,41,Male,I25.10,138/83,87,Dr. Patel,$273.54,AETNA,Depression screening
+1072,Melinda Morse,"Feb 04, 1998",,Female,F32.9,114/81,,Dr. Adams,$440.84,,Follow-up for physical
+1073,Megan Winters,1989.08.24,40,M,Z00.0,145/70,89,Dr. Adams,349.63,UnitedHealthCare,Follow-up in 1 month
+1074,Bradley Yoder,1980.10.01,,M,E78.5,114 / 73,,,,AETNA,Complaint: headaches
+1075,Kevin Miller,1988.10.17,,female,J45,128 / 70,64,Dr. Smith,$290.73,AETNA,Missing lab results
+1076,Ashley Miller,2021.08.12,,Female,F32.9,133/85,,Dr. Patel,410.6,Blue cross,Follow-up for physical
+1077,Nicholas Erickson,2014/10/24,,female,I25.10,141 / 89,,Dr. Patel,393.87,,Missing lab results
+1078,Kristina Phillips,2005.10.11,69,female,Z00.0,142 / 70,,Dr. Patel,346.53,united health,Follow-up in 1 month
+1079,Cynthia Larsen,"Jan 21, 1996",,Female,J45,119/80,88,Dr. Adams,303.65,united health,Depression screening
+1080,Jacob Rodriguez,"Nov 10, 1989",,female,I10,144 / 92,,Dr. Smith,329.74,UnitedHealthCare,
+1081,Todd Joseph,"Apr 05, 2014",,F,Z00.0,135 / 71,,,423.22,UnitedHealthCare,
+1082,David Smith,2003.06.25,69,M,I10,120/93,95,Dr. Smith,450.87,BlueCross,
+1083,Michael Martin,2020/10/06,,M,E78.5,119 / 74,,Dr. Smith,451.71,BCBS,Missing lab results
+1084,Emily Alexander,"Jul 13, 1978",68,F,I10,145/87,,Dr. Patel,312.5,united health,N/A
+1085,Jill Baker,2020/09/27,,M,J45,132/74,71,Dr. Patel,419.96,Blue cross,Depression screening
+1086,Ann Lopez,"Aug 10, 2004",42,Female,F32.9,144/78,89,,,Blue cross,Depression screening
+1087,Jennifer Mathews,04-13-2004,,female,Z00.0,129/85,,Dr. Jones,324.41,UnitedHealthCare,
+1088,Barbara Howard,2010.02.22,38,female,I25.10,145 / 81,,Dr. Adams,,BlueCross,Needs prescription refill
+1089,Regina Snyder,1982/09/28,28,Female,,137 / 83,,Dr. Smith,370.63,BCBS,Complaint: headaches
+1090,Crystal Johnson,"Oct 05, 1985",77,MALE,F32.9,125 / 90,64,Dr. Adams,400.61,UnitedHealthCare,Missing lab results
+1091,Sophia Hall,1993/12/25,71,female,R51,,,Dr. Jones,447.4,Blue cross,-
+1092,Samantha Brady,07-27-1977,64,M,E78.5,148/83,,Dr. Smith,$360.38,united health,Follow-up for physical
+1093,Samantha Hill,1975/04/24,42,MALE,I10,120/87,71,Dr. Smith,$440.38,BlueCross,N/A
+1094,Kathleen Gonzales,1991.02.04,63,Female,R51,,,Dr. Adams,268.19,Blue cross,Depression screening
+1095,Thomas Daniels,2003.02.22,69,MALE,E11.9,111 / 74,88,Dr. Smith,308.31,BlueCross,Follow-up in 2 weeks
+1096,Andrew Simpson,"Apr 11, 1991",,F,E11.9,110/91,,Dr. Jones,$453.2,BCBS,Needs prescription refill
+1097,Tommy Smith,1996.11.04,26,MALE,,113/73,,Dr. Jones,270.88,united health,Complaint: headaches
+1098,Miguel White,2013.02.23,,F,R51,148 / 79,85,Dr. Patel,277.8,UnitedHealthCare,N/A
+1099,Katelyn Baxter,1999.08.22,22,Male,E11.9,122/87,,Dr. Adams,264.08,UnitedHealthCare,Missing lab results
+1100,Robin Butler,1991.10.18,,female,F32.9,148/70,62,Dr. Smith,$309.38,united health,N/A
+1101,John Lewis,"Dec 29, 2019",76,Male,R51,134 / 93,,Dr. Smith,359.08,BlueCross,
+1102,Olivia Taylor,2012/04/03,,M,Z00.0,141 / 82,,Dr. Adams,381.93,BCBS,Follow-up in 2 weeks
+1103,Amy Nguyen,07-26-1975,,Female,F32.9,146 / 73,94,Dr. Patel,492.33,Blue cross,Follow-up in 2 weeks
+1104,Cheryl Duncan,2008/06/06,37,MALE,I10,123 / 84,90,,406.89,united health,Follow-up in 1 month
+1105,William Campbell,2025/03/02,73,Male,Z00.0,125/92,,Dr. Patel,,,
+1106,Tanya Stone,06-23-1982,,M,E78.5,119/85,,Dr. Jones,,,N/A
+1107,Jonathan Wilson,1998.04.03,,female,E78.5,137/90,,Dr. Jones,297.03,,Follow-up in 2 weeks
+1108,Rachel Wilson,2005.08.23,,M,F32.9,137/74,,Dr. Jones,363.31,BCBS,
+1109,Ashley Lane,09-25-2015,36,M,E11.9,142 / 90,79,,421.18,Aetna,Follow-up for physical
+1110,Andrew Watson,2021/12/10,48,Female,E11.9,144 / 75,77,Dr. Patel,431.43,BCBS,-
+1111,Stephanie Lee,1986.04.01,66,Female,J45,111/79,,Dr. Adams,387.9,AETNA,
+1112,Chad Kelly,2016/07/10,24,MALE,R51,142/91,,Dr. Jones,496.82,Aetna,
+1113,Melissa Robinson,1977.02.10,68,Male,Z00.0,130 / 94,81,Dr. Patel,460.53,Blue cross,
+1114,Elizabeth Foster,2000/05/19,32,MALE,I10,143/78,94,Dr. Patel,318.35,BlueCross,Depression screening
+1115,William Jimenez,"Apr 29, 2006",67,M,E11.9,115 / 86,64,,437.48,BCBS,Follow-up for physical
+1116,Erin Dawson,"Dec 28, 1999",22,F,F32.9,132/74,,Dr. Patel,$431.53,,Needs prescription refill
+1117,Pamela Rogers,1991/06/06,,female,J45,128/86,,Dr. Patel,301.26,,N/A
+1118,Lisa Sherman,"Sep 27, 1981",20,F,R51,122/73,60,Dr. Smith,439.25,UnitedHealthCare,Follow-up in 2 weeks
+1119,Lisa Sandoval,1987/04/20,,Female,R51,140 / 77,,Dr. Adams,$374.54,Blue cross,Follow-up in 1 month
+1120,Jason Herrera,1986.04.23,,MALE,J45,112 / 87,71,Dr. Smith,$387.98,AETNA,Follow-up in 2 weeks
+1121,Dr. Terry Jackson,"Jul 14, 2017",,female,E78.5,139/94,,,$370.01,AETNA,-
+1122,Linda Hudson,11-01-1998,42,MALE,I25.10,146 / 90,,Dr. Smith,$451.26,united health,
+1123,Tamara Wilson,2019.03.13,,Male,I25.10,143/75,,Dr. Smith,$348.06,BCBS,Needs prescription refill
+1124,Tiffany Evans,1973.04.11,46,Female,F32.9,,97,,445.91,,Follow-up in 2 weeks
+1125,Tommy Rogers,2012/08/06,,Female,F32.9,126 / 74,,Dr. Jones,449.12,BCBS,N/A
+1126,Patrick Leblanc,2002.08.25,,F,J45,126 / 79,,Dr. Jones,,united health,N/A
+1127,Joseph Burnett,2000/06/14,,M,E78.5,114 / 71,65,Dr. Smith,$336.85,AETNA,
+1128,Andrew Gomez,"Mar 20, 1983",62,MALE,E78.5,120 / 88,,Dr. Patel,384.32,Blue cross,Follow-up in 1 month
+1129,Jason Lucas,"Dec 02, 1981",42,MALE,,125/80,,,$295.02,,Follow-up for physical
+1130,John Singh,"Oct 14, 2013",,M,E11.9,134/72,91,Dr. Smith,378.81,BlueCross,Follow-up for physical
+1131,Roberto Warren,"Jul 11, 1976",,Female,I25.10,128 / 90,,Dr. Adams,319.65,AETNA,Follow-up in 2 weeks
+1132,Brendan Murphy,"Jun 23, 1989",41,Female,I10,115 / 70,64,Dr. Smith,$339.0,united health,Needs prescription refill
+1133,Michael Kelly,04-26-1994,,Male,R51,123/82,86,,273.07,,Follow-up for physical
+1134,Teresa Smith,"Sep 02, 2014",66,F,R51,131/84,89,,480.22,BCBS,Follow-up in 1 month
+1135,Ronald Knight,"Feb 13, 1993",,Male,R51,145 / 70,67,,399.32,AETNA,Follow-up in 2 weeks
+1136,Barbara Adkins,11-14-1973,71,F,Z00.0,131/83,,,404.56,BCBS,Follow-up in 2 weeks
+1137,Eric Hill,08-31-1988,,female,I25.10,,,Dr. Patel,436.87,BlueCross,
+1138,Samantha Thompson,1975/02/13,33,M,R51,116 / 72,,Dr. Patel,437.4,united health,Missing lab results
+1139,Donald Taylor,08-19-1983,79,F,,127/75,94,Dr. Patel,$310.62,Aetna,Depression screening
+1140,Allen Jacobs,08-10-1986,44,Male,I25.10,146/79,98,Dr. Patel,460.18,Aetna,Needs prescription refill
+1141,Cassie Romero,"Apr 19, 2015",,female,J45,134/86,,Dr. Adams,$368.49,AETNA,Follow-up in 2 weeks
+1142,Matthew Ali,1993.05.20,29,M,I25.10,127/84,95,Dr. Jones,434.21,AETNA,Follow-up in 1 month
+1143,David Church,2015.05.16,,MALE,E11.9,149 / 86,,,391.11,BCBS,N/A
+1144,Jordan Barry,"Sep 21, 2017",61,Male,E11.9,146 / 75,,Dr. Adams,392.69,Aetna,Missing lab results
+1145,Dwayne Wallace,"Dec 20, 1992",75,MALE,Z00.0,115 / 74,92,Dr. Smith,275.45,BCBS,N/A
+1146,Dr. Shannon Callahan,2012/07/29,,MALE,I10,113 / 80,,Dr. Smith,$271.97,,
+1147,Thomas Brewer,2000.03.21,49,female,,133/92,68,,$262.91,BlueCross,N/A
+1148,Nancy Jones,"Mar 01, 2019",,F,E78.5,146 / 73,83,Dr. Patel,474.15,,N/A
+1149,Monica Moore,1987.03.24,,Male,R51,120 / 73,,Dr. Adams,$493.77,,
+1150,Kayla Suarez,2002.09.11,,Female,R51,147/88,61,Dr. Adams,383.76,AETNA,Needs prescription refill
+1151,Kenneth Burnett,1991/07/22,,F,,135 / 88,,Dr. Jones,492,AETNA,Needs prescription refill
+1152,Corey Fowler,06-22-1975,23,F,J45,129/70,79,Dr. Patel,,BlueCross,
+1153,Darlene Anderson,"Aug 21, 2001",31,M,E11.9,110 / 83,97,Dr. Smith,$376.53,Blue cross,Complaint: headaches
+1154,Chad Franco,"May 01, 1979",55,M,,112/70,,Dr. Smith,$363.57,BlueCross,N/A
+1155,Joshua Waters,"Jan 10, 1996",24,MALE,I25.10,119/81,61,Dr. Smith,421.14,Aetna,
+1156,James Thomas,"Mar 10, 2013",39,MALE,,146/78,76,Dr. Jones,398.91,,
+1157,Jennifer Bright,2025.05.20,,female,I10,144 / 86,,Dr. Smith,436.49,AETNA,N/A
+1158,Christopher Hammond,2005.02.15,,female,E78.5,,,Dr. Jones,344.81,,N/A
+1159,Elizabeth Young,2023.11.05,,F,,131/77,70,Dr. Jones,437.63,UnitedHealthCare,Depression screening
+1160,Stephen Ball,"Jun 18, 2009",,Female,I25.10,144 / 90,96,Dr. Patel,$308.92,united health,Needs prescription refill
+1161,Michael Gonzalez,2002/05/24,,M,Z00.0,113/94,,,454.15,Aetna,Needs prescription refill
+1162,Mark Allen,2022.12.28,,MALE,F32.9,123 / 88,97,Dr. Adams,$436.9,Blue cross,Follow-up for physical
+1163,Maria Adams,1978/07/29,34,female,I25.10,134/86,92,Dr. Smith,$345.97,united health,-
+1164,Pamela Brown,10-04-1972,33,MALE,E78.5,149 / 77,98,,357.88,BlueCross,Follow-up in 1 month
+1165,Shawn Cooper,09-12-1992,22,F,I25.10,117/79,74,Dr. Patel,405.02,Blue cross,
+1166,Elizabeth Lucas,03-26-2016,,female,I10,148 / 73,,Dr. Adams,$438.1,,Depression screening
+1167,Lisa Gordon,2016.11.14,56,M,I10,,,Dr. Jones,440.61,AETNA,Follow-up in 1 month
+1168,Rebecca Blake,"Jun 14, 1995",,Female,,142 / 91,97,Dr. Adams,277.66,BCBS,Follow-up in 2 weeks
+1169,Michael Fields,04-21-1992,55,MALE,E78.5,133/89,74,,$384.97,Blue cross,N/A
+1170,Evan Little,"Feb 04, 1974",48,Female,I10,113 / 81,61,Dr. Patel,410.29,BlueCross,Needs prescription refill
+1171,Mrs. Sandra Chapman,11-15-1995,,Male,E11.9,145 / 80,86,Dr. Patel,456.7,Aetna,Follow-up for physical
+1172,Ms. Krista Walton MD,1976/10/24,,Female,I25.10,147/75,67,,365.5,united health,-
+1173,Molly Mills,10-18-1984,65,MALE,R51,,,Dr. Jones,275.2,united health,
+1174,Mr. David Terry,01-18-1981,52,MALE,I25.10,149 / 80,,Dr. Jones,391.28,BlueCross,Depression screening
+1175,Kimberly Shelton,2024/12/13,23,F,I10,146/77,87,Dr. Jones,401.68,united health,
+1176,Tyler Madden,08-03-2009,,M,E11.9,138 / 83,99,,,,N/A
+1177,Kathleen White,2023/07/28,41,female,F32.9,132/70,96,,291.38,BCBS,Follow-up for physical
+1178,Jamie Foster,1979.06.20,,MALE,F32.9,132/94,60,Dr. Jones,327.86,AETNA,Follow-up in 1 month
+1179,Chad Miller,2005/08/20,,Female,E78.5,124 / 90,68,Dr. Jones,,,
+1180,Gabriel Johnson,12-11-1993,,Male,E11.9,135 / 78,94,Dr. Jones,$353.63,AETNA,-
+1181,Vanessa Martin,"Mar 10, 1978",45,Male,J45,147 / 71,,Dr. Smith,370.21,UnitedHealthCare,-
+1182,Shari Gray,1991.10.02,46,female,,133 / 94,,Dr. Smith,374.59,,Follow-up in 1 month
+1183,Ralph Shelton,08-31-1978,,M,F32.9,115 / 90,83,Dr. Adams,$340.6,AETNA,-
+1184,Melissa Hubbard,03-01-2005,,female,J45,135/87,80,,$294.51,united health,Needs prescription refill
+1185,Edward Miller,12-29-1980,39,Male,I25.10,129 / 91,,Dr. Adams,383.77,BlueCross,Missing lab results
+1186,Kimberly Simpson,2004.12.24,59,MALE,,116 / 70,91,Dr. Patel,$349.33,united health,Missing lab results
+1187,Nicholas Kirby,"Mar 17, 1998",70,female,E78.5,128 / 86,,Dr. Patel,459.14,UnitedHealthCare,Needs prescription refill
+1188,Cathy Henderson,"Jun 23, 1998",,F,I25.10,,,,360.19,united health,Follow-up for physical
+1189,Charles Miller,"Aug 16, 2003",,MALE,E78.5,147 / 88,63,Dr. Smith,333.59,BCBS,-
+1190,Randall Odonnell,01-26-1970,74,MALE,E78.5,112/79,69,Dr. Patel,411,AETNA,Depression screening
+1191,John Cobb,2006/12/12,79,M,J45,132/92,,Dr. Smith,428.99,BlueCross,Missing lab results
+1192,Nicole Sparks,2015.11.06,,F,J45,110 / 94,,Dr. Jones,299.03,BlueCross,
+1193,Brent Nelson,2010/11/16,,Male,I10,146 / 72,,Dr. Patel,$471.87,,N/A
+1194,Kathryn Alexander,2017.12.27,47,MALE,J45,117/71,,Dr. Patel,497.18,UnitedHealthCare,Complaint: headaches
+1195,Stephen Small,2002/01/13,,female,E78.5,125/73,,Dr. Jones,486.1,AETNA,Follow-up in 2 weeks
+1196,Charles Andrade,2007.11.04,73,Male,I25.10,123/92,77,Dr. Jones,408.31,united health,-
+1197,Clayton Morales,09-20-2021,52,Male,Z00.0,130/88,,Dr. Patel,,united health,
+1198,Kevin Schultz,05-04-2015,67,female,F32.9,128 / 73,,Dr. Smith,425.99,UnitedHealthCare,Complaint: headaches
+1199,David Adams,2002/12/20,20,female,E11.9,114/89,,,$333.97,,Follow-up for physical
+1200,Ronald Parsons,"Jul 02, 2023",21,F,I25.10,132/92,,Dr. Adams,406.04,Blue cross,
+1201,Ashley Ramirez,2021/01/30,,female,E11.9,,93,Dr. Adams,323.62,Blue cross,Missing lab results
+1202,Jennifer Rivera,1979/08/04,,F,R51,131 / 81,,,285.03,,Missing lab results
+1203,Richard Morgan,10-14-1972,,MALE,E11.9,132/86,,Dr. Jones,435.42,Blue cross,Follow-up in 1 month
+1204,Gregory Walker,1999.12.18,21,Female,F32.9,134 / 76,,Dr. Adams,411.26,,Needs prescription refill
+1205,Jesse Rodgers,1978.10.30,,M,Z00.0,135/82,93,Dr. Smith,$420.8,Aetna,Follow-up in 2 weeks
+1206,Kimberly Warren,"Nov 30, 2016",,MALE,F32.9,130 / 79,95,Dr. Smith,318.51,united health,Depression screening
+1207,Paul Green,"Oct 26, 2013",36,F,R51,134/75,71,Dr. Smith,276.64,Aetna,Complaint: headaches
+1208,Richard Smith,2004.11.07,41,MALE,E78.5,136/94,,Dr. Smith,,AETNA,-
+1209,Courtney Garcia,1982.09.26,,female,E11.9,143/81,,,478.6,Aetna,N/A
+1210,Ruth Cruz,2014/03/06,45,Male,I25.10,137 / 83,,Dr. Smith,489.66,,Follow-up in 1 month
+1211,Tammy Hopkins,1990.07.06,20,M,,145/88,85,Dr. Adams,347.32,BlueCross,
+1212,Jamie Wilson,"Nov 15, 1975",59,M,F32.9,145 / 86,,Dr. Smith,391.6,united health,Depression screening
+1213,Michelle Forbes,"Dec 06, 2017",53,female,,133/91,81,Dr. Patel,370.94,Blue cross,N/A
+1214,Kristine Hansen,"May 24, 1982",,F,E78.5,129 / 88,,,398.77,Blue cross,Follow-up in 2 weeks
+1215,Randy Haas,2000.08.05,62,female,J45,143/78,,Dr. Smith,276.65,AETNA,-
+1216,Marissa Henderson,"Mar 31, 2016",,Female,F32.9,126/70,84,,422.1,united health,-
+1217,Allison Pena,"Apr 15, 2019",61,Male,E11.9,148/72,,Dr. Adams,$449.85,AETNA,Follow-up in 1 month
+1218,Brian Price,2006/12/11,63,MALE,F32.9,139 / 75,,Dr. Smith,340.24,Aetna,
+1219,Nicholas White,2002.05.09,63,M,E11.9,126 / 79,,Dr. Adams,489.54,BCBS,
+1220,Kelsey Freeman,1975.07.17,,F,,140/90,76,Dr. Smith,$431.03,BCBS,Follow-up for physical
+1221,Sharon Richardson,1970.07.25,,M,I10,117 / 94,77,Dr. Smith,411.67,AETNA,Complaint: headaches
+1222,Edward Lewis,1991.04.12,,Male,I10,135 / 84,,Dr. Adams,$261.04,AETNA,
+1223,Jesus Fry,02-24-2022,35,Male,E11.9,126/92,85,Dr. Smith,$368.3,AETNA,Follow-up in 1 month
+1224,Shannon Ayala,04-30-1977,,Male,E78.5,124/90,66,Dr. Patel,$298.15,Blue cross,-
+1225,Christopher Stevens,"Jan 26, 1986",,MALE,R51,132/87,,Dr. Smith,$263.72,united health,Follow-up in 2 weeks
+1226,Latoya Velazquez,1980.12.21,,MALE,,148/86,73,Dr. Smith,341.17,Blue cross,N/A
+1227,Lori Steele,07-06-1987,,M,J45,143 / 72,96,Dr. Patel,334.97,,Depression screening
+1228,Leslie Blackwell,2022.05.19,74,M,F32.9,148 / 84,63,Dr. Jones,415.41,UnitedHealthCare,Depression screening
+1229,Laura Yang,1979.06.01,,Male,E11.9,142 / 85,61,Dr. Patel,365.49,,-
+1230,William Ramos,2015/06/17,,F,Z00.0,122 / 82,,Dr. Adams,483.15,UnitedHealthCare,Follow-up in 2 weeks
+1231,Tina Gordon,04-27-2010,78,F,I10,138/86,,Dr. Jones,369.97,BCBS,Needs prescription refill
+1232,Kendra Cabrera,1973/07/12,,M,E11.9,119 / 94,,Dr. Adams,434.4,united health,Complaint: headaches
+1233,Nicholas Shaw,1973.04.21,49,Male,E78.5,112 / 82,,,,UnitedHealthCare,Missing lab results
+1234,Michelle Curtis,07-16-1996,,F,E11.9,113 / 87,96,Dr. Jones,319.32,BCBS,Complaint: headaches
+1235,Thomas Wade,2000.01.19,,female,J45,,74,Dr. Smith,347.91,united health,N/A
+1236,Richard Friedman,07-13-2013,,F,E78.5,,65,Dr. Jones,469.78,,Follow-up for physical
+1237,Sandra Reynolds,10-10-1970,,female,E11.9,120/82,93,Dr. Patel,435.84,Aetna,-
+1238,Amy Roberson,1997/03/05,23,M,I10,117/89,88,,307.64,Blue cross,Follow-up in 1 month
+1239,Danielle Deleon,2005/06/04,70,M,J45,119/80,93,Dr. Smith,305.12,Blue cross,Follow-up in 2 weeks
+1240,Connor Beck,1983.02.10,,Female,I10,112/93,65,Dr. Patel,264.46,,Complaint: headaches
+1241,Destiny Moore,"Jun 29, 1991",66,MALE,,118 / 72,,Dr. Smith,381.26,BCBS,Follow-up in 1 month
+1242,Aaron Brooks,1989.12.02,,female,E11.9,144 / 87,,Dr. Adams,$499.08,,Missing lab results
+1243,Michael King,"Jul 31, 1976",,Male,Z00.0,144/75,,Dr. Jones,436.97,BCBS,Depression screening
+1244,Danielle Perry,2014.08.30,44,female,Z00.0,113 / 83,,Dr. Patel,$364.36,BlueCross,Follow-up for physical
+1245,Louis Gordon,04-16-1991,75,Male,Z00.0,137/78,,,$261.09,BCBS,Follow-up for physical
+1246,Sean Williams,01-09-1994,,Male,E11.9,118/84,,Dr. Jones,413.81,,N/A
+1247,Raymond Shaw,2016/08/23,24,Male,,143/93,,Dr. Adams,314.94,UnitedHealthCare,Needs prescription refill
+1248,Charles Wood,"Jun 21, 1976",,Male,,135 / 87,65,Dr. Smith,305.05,Blue cross,Depression screening
+1249,Jeremy Mueller,02-15-1988,,M,R51,,,Dr. Patel,373.79,Aetna,
+1250,Pedro Smith,2006/03/22,,MALE,I25.10,138/88,,Dr. Smith,$415.53,BlueCross,Complaint: headaches
+1251,Diane Roman,1983.10.06,59,M,I10,122 / 82,,Dr. Patel,380.32,united health,Complaint: headaches
+1252,Michael Fisher,2016/05/11,,Female,Z00.0,,72,Dr. Smith,309.67,AETNA,Missing lab results
+1253,Jesse Miller,"Feb 22, 1984",,female,F32.9,,66,,$470.22,Aetna,Needs prescription refill
+1254,Ashley Price,2006/02/06,77,F,R51,140 / 92,,Dr. Adams,251.29,Blue cross,N/A
+1255,Kristy Newman,08-09-2012,51,F,R51,139/76,,Dr. Adams,454.49,Blue cross,Missing lab results
+1256,James Williams,"Aug 30, 1996",33,M,I10,138/81,,Dr. Adams,321.76,BlueCross,Needs prescription refill
+1257,Hannah Chen,2012/02/06,65,Female,I10,126/77,,Dr. Smith,408.5,BCBS,Missing lab results
+1258,Dylan Benson,1982/12/24,43,Female,J45,144 / 85,65,Dr. Jones,$440.26,Blue cross,Follow-up in 2 weeks
+1259,Patricia Lopez MD,2012.06.01,29,female,I25.10,141 / 71,,Dr. Patel,294.87,BlueCross,N/A
+1260,Sierra Davis,1971.05.03,56,F,I25.10,,,Dr. Adams,442.71,Aetna,Needs prescription refill
+1261,Nicholas Rice,04-03-2005,23,Male,E78.5,126 / 81,81,,$395.54,BCBS,Complaint: headaches
+1262,Aaron Guerrero,"Sep 06, 1981",,MALE,E78.5,135/93,,,497.54,AETNA,Follow-up for physical
+1263,Matthew Lopez,05-15-1998,66,Female,I10,121 / 73,,Dr. Patel,439.57,UnitedHealthCare,
+1264,Courtney Vaughn,09-30-2015,26,Male,E78.5,120 / 70,65,Dr. Jones,372.16,,Follow-up for physical
+1265,Lindsey Middleton,01-28-2004,70,MALE,R51,132/71,93,Dr. Jones,486.08,BCBS,
+1266,Ashley Evans,"Jan 04, 2016",54,F,,148 / 84,,Dr. Adams,$448.7,AETNA,Follow-up in 2 weeks
+1267,Robert King,"Nov 29, 1988",48,Female,J45,141 / 71,,Dr. Patel,$413.63,BCBS,Missing lab results
+1268,Heather Martinez,08-17-1983,46,M,F32.9,126 / 81,87,Dr. Adams,485.9,AETNA,Follow-up for physical
+1269,Rebecca York,1983.02.07,35,MALE,R51,129/75,78,Dr. Patel,$360.57,BCBS,Follow-up in 2 weeks
+1270,Miss Ashley Carroll MD,"Feb 18, 1971",78,MALE,I10,147 / 84,93,Dr. Smith,300.09,AETNA,N/A
+1271,Mary King,1989/05/07,68,Female,R51,133 / 81,77,Dr. Jones,367.88,UnitedHealthCare,Depression screening
+1272,Grace White,1977.03.19,,Female,E11.9,134/86,88,Dr. Jones,288.41,BCBS,Complaint: headaches
+1273,Jay Pearson,1986/06/22,,M,,116/72,,Dr. Smith,323.54,BCBS,Depression screening
+1274,Jacob Wilson,2023/03/23,,Male,Z00.0,,74,Dr. Jones,$250.31,,N/A
+1275,Sarah Rodriguez,1974/01/11,26,Male,R51,129/73,,Dr. Jones,306.39,,N/A
+1276,Edgar Richards,2007/06/10,79,Female,E78.5,131/91,,Dr. Smith,$358.31,united health,Missing lab results
+1277,Karen Williams,2017/02/04,32,MALE,I25.10,117 / 90,,Dr. Patel,348.12,AETNA,-
+1278,Tyler Wood,1982.08.02,,Female,Z00.0,140 / 75,91,,423.75,Aetna,Missing lab results
+1279,Stephanie Harvey,1998/05/03,,F,R51,147 / 78,67,Dr. Patel,$370.13,BlueCross,N/A
+1280,John Phillips,2018.02.02,43,M,,126/81,91,Dr. Jones,374.72,,Follow-up in 1 month
+1281,Sarah Taylor,1998.03.28,,Female,I25.10,129 / 70,,Dr. Jones,252.44,BCBS,Missing lab results
+1282,Beverly Gardner,"Dec 11, 2022",79,Female,E78.5,111 / 70,92,,337.66,BCBS,
+1283,Ashley Martin,2019.10.04,52,female,E11.9,,,Dr. Smith,$494.37,AETNA,Follow-up in 2 weeks
+1284,Melissa Garcia,"Jan 18, 1989",,Female,J45,124/71,99,Dr. Jones,281.05,Blue cross,Needs prescription refill
+1285,Patricia Williams,2010.02.21,,M,F32.9,118/75,68,Dr. Adams,$403.24,,Follow-up in 2 weeks
+1286,Roy Perkins,"Jul 13, 1997",,M,E78.5,,,Dr. Patel,$406.33,Aetna,Needs prescription refill
+1287,Anthony Johnson,1996/02/16,,female,E11.9,116 / 80,,,386.9,,
+1288,Pamela Rivera,2023.09.17,,Female,F32.9,135/72,73,Dr. Jones,$431.21,Aetna,Follow-up in 1 month
+1289,Paul Nelson,"Nov 06, 2003",31,MALE,I10,121/82,84,Dr. Jones,403.94,UnitedHealthCare,-
+1290,Brittany Rice,"Aug 03, 2008",38,F,,145/82,67,Dr. Adams,447.42,BCBS,Depression screening
+1291,Shawn Marquez,03-07-2021,,M,E11.9,127 / 75,77,Dr. Smith,$307.11,united health,-
+1292,Carolyn Cook,2019/03/31,,F,,,94,Dr. Jones,$268.05,BCBS,
+1293,Christina Peterson,"Mar 09, 1985",34,MALE,Z00.0,116/81,89,,431.79,united health,Depression screening
+1294,John Castillo,1971/07/09,,MALE,F32.9,146 / 73,,Dr. Patel,441.93,Aetna,Needs prescription refill
+1295,John Schneider,1982.06.12,,M,Z00.0,141/78,,Dr. Patel,431.31,united health,Follow-up in 2 weeks
+1296,Stephanie Wells,08-26-2024,,female,J45,124/71,,Dr. Patel,413.75,BlueCross,
+1297,Todd Nelson,2019/12/11,70,female,E78.5,121/72,,Dr. Patel,459,BCBS,Needs prescription refill
+1298,Cody Richardson,2002.10.27,52,female,Z00.0,135/77,,Dr. Patel,$400.46,united health,Needs prescription refill
+1299,Brandon Carlson,09-24-1997,,M,R51,123 / 83,61,,353.26,Blue cross,Depression screening
+1300,Katherine Graham,2006.04.03,57,female,F32.9,123 / 93,98,Dr. Adams,$415.66,,
+1301,Timothy Tanner,01-22-2011,,female,J45,126 / 94,,Dr. Adams,$464.5,AETNA,Needs prescription refill
+1302,James Brown,2021.02.23,24,Female,J45,110/77,,Dr. Smith,399.68,,Depression screening
+1303,John Johnson,"Jul 06, 1973",,MALE,E78.5,145/82,82,Dr. Smith,308.67,united health,-
+1304,Kevin Nguyen,12-18-2022,29,Male,F32.9,123 / 85,,Dr. Jones,$379.94,UnitedHealthCare,Complaint: headaches
+1305,Mark Parrish,12-04-1993,,F,R51,139 / 78,60,,,united health,N/A
+1306,Angel Peterson,1983/02/28,,MALE,,121 / 70,,Dr. Jones,259.17,BlueCross,
+1307,Donna Mason,05-18-1999,56,female,I10,,96,,461.04,AETNA,N/A
+1308,Shelby Lewis,2022/07/15,,female,I10,137/84,,Dr. Patel,301.46,,Missing lab results
+1309,Thomas Hall,01-27-1986,,Male,I25.10,123 / 71,68,Dr. Smith,307.78,,Needs prescription refill
+1310,Gerald Becker,2015/09/11,,F,E78.5,135 / 70,,Dr. Jones,295,AETNA,N/A
+1311,Meagan Ochoa,"Jan 20, 2010",78,Male,E11.9,142/86,,Dr. Patel,$287.09,BCBS,Follow-up in 2 weeks
+1312,Kelly Anderson,"Apr 09, 1985",,female,R51,133 / 80,93,Dr. Jones,,BCBS,N/A
+1313,Matthew Jones,2015.03.03,69,F,Z00.0,148 / 93,,Dr. Adams,383.06,AETNA,Needs prescription refill
+1314,Troy Moyer,1992.01.19,,F,F32.9,125/87,,Dr. Jones,297.09,Blue cross,Complaint: headaches
+1315,Jeffrey Welch,2000.06.16,,female,I25.10,138 / 75,64,Dr. Jones,294.29,BCBS,Depression screening
+1316,Nancy Lopez,1981/10/29,53,F,I25.10,,,Dr. Patel,,united health,Follow-up for physical
+1317,Allison Davis,05-13-1983,,female,E78.5,126/77,99,Dr. Adams,257.6,BlueCross,Follow-up in 2 weeks
+1318,Laurie Gibson,2013.05.26,27,F,I25.10,113 / 70,60,Dr. Adams,$485.22,united health,Follow-up in 1 month
+1319,Megan Anderson,2021/11/06,33,Female,E11.9,114/78,,,$414.46,AETNA,Follow-up in 2 weeks
+1320,Jimmy Sanders,"Jan 02, 2001",,Male,,115/78,92,Dr. Smith,498.33,united health,Depression screening
+1321,Kenneth Thompson,1989/06/09,32,Male,E78.5,122 / 78,,Dr. Smith,412.63,AETNA,Missing lab results
+1322,Joshua Diaz,10-12-1993,,Female,I10,113/75,,Dr. Patel,475.34,Blue cross,Follow-up in 2 weeks
+1323,Matthew Hodges,2005/03/02,32,female,F32.9,132/88,70,,280.05,united health,Follow-up for physical
+1324,Sarah Mendez,2018.10.24,73,Male,E11.9,134 / 90,74,Dr. Smith,341.62,BlueCross,Follow-up in 1 month
+1325,Sandy Thompson,"Sep 03, 2006",26,F,,130/88,88,Dr. Adams,$399.12,,
+1326,Robin Anderson,10-14-2019,51,F,F32.9,144/81,,Dr. Patel,396.77,Aetna,Depression screening
+1327,Michael Smith Jr.,02-04-1984,,MALE,,123/79,,Dr. Smith,$375.11,Aetna,Follow-up for physical
+1328,Kelli Gray,"Jul 01, 1982",,female,J45,117/85,,Dr. Jones,478.56,,Follow-up in 1 month
+1329,Amber Cole,"Apr 22, 2015",,F,I10,134 / 81,,Dr. Jones,381.66,BCBS,Needs prescription refill
+1330,Jason Thompson,2017.11.16,,Male,Z00.0,145/84,,,436.72,united health,Follow-up in 1 month
+1331,Traci Lawrence,2000/01/21,63,female,Z00.0,130 / 92,75,,267.82,UnitedHealthCare,Follow-up in 1 month
+1332,Joseph Garcia,01-16-1975,,M,E78.5,124/94,95,Dr. Adams,345.02,UnitedHealthCare,
+1333,Linda Wallace,"Apr 15, 2000",23,Female,Z00.0,122/91,,Dr. Adams,$298.64,BlueCross,Complaint: headaches
+1334,Angela Estrada,1985/06/13,33,Female,J45,113 / 85,86,Dr. Adams,,UnitedHealthCare,
+1335,Adam Warner,01-07-1998,,female,Z00.0,144/77,,Dr. Patel,402.58,Blue cross,Follow-up in 1 month
+1336,David Lewis,1995.11.28,,MALE,F32.9,,85,Dr. Adams,380.62,Aetna,-
+1337,Christopher Mora,2008.04.08,26,female,I10,119 / 76,72,Dr. Smith,$427.26,BlueCross,Follow-up for physical
+1338,Luke Schneider,2020/03/12,75,Male,F32.9,145/89,,Dr. Smith,370.89,AETNA,Depression screening
+1339,Beverly Fuller,1995.03.12,,female,E78.5,110 / 81,,Dr. Smith,260.85,united health,-
+1340,Daniel Holt,1977.06.16,61,Female,,122/92,,,378.79,BCBS,Follow-up in 2 weeks
+1341,Sandra Stout,1993.11.09,47,Male,E11.9,,,Dr. Patel,293.69,united health,Needs prescription refill
+1342,Darlene Jackson,1997/07/17,76,female,F32.9,117 / 93,75,Dr. Smith,,Blue cross,
+1343,Lauren Proctor,1989.04.13,45,Male,R51,146 / 73,83,Dr. Patel,$462.79,AETNA,Complaint: headaches
+1344,Kristin Griffith,2009/09/06,,Male,I25.10,134 / 87,,Dr. Smith,287.43,Aetna,Follow-up for physical
+1345,Clinton Doyle,08-26-2010,,MALE,J45,114 / 84,,Dr. Smith,$465.7,united health,Follow-up for physical
+1346,Donna Gonzalez,1970.03.25,74,female,,126 / 91,96,Dr. Patel,$307.56,BlueCross,Follow-up in 1 month
+1347,Jack Hart,2007/11/18,,Male,Z00.0,120 / 79,,Dr. Smith,408,BCBS,-
+1348,Andrew Turner,2016.08.15,,Male,E78.5,134 / 71,94,Dr. Patel,$423.79,UnitedHealthCare,Follow-up for physical
+1349,Steven Marshall,1986.07.25,,M,E78.5,148/78,70,Dr. Patel,$335.27,UnitedHealthCare,Depression screening
+1350,Bruce Mcdonald,2011/05/28,65,M,I25.10,113 / 75,91,Dr. Patel,$443.16,united health,Needs prescription refill
+1351,Kristin Weiss,1970.03.26,,Male,,146/70,95,Dr. Smith,$350.3,Aetna,Follow-up in 1 month
+1352,James Cook,"Apr 27, 2023",52,Female,R51,115/78,,Dr. Patel,360.6,Blue cross,Complaint: headaches
+1353,Michael Phillips,11-14-1982,,female,E78.5,114/81,,Dr. Adams,$385.0,BCBS,N/A
+1354,Jennifer Reilly,"Mar 31, 1972",,F,R51,,,Dr. Adams,417.37,BlueCross,-
+1355,Jonathan Johnson,07-07-1996,,F,I10,,76,Dr. Jones,432.66,Aetna,Needs prescription refill
+1356,Mark Walker,"Nov 03, 2017",,F,R51,117/91,,Dr. Patel,390.57,,Follow-up for physical
+1357,Christina Barajas,04-06-2013,55,F,I10,122 / 84,,Dr. Jones,$274.17,BCBS,N/A
+1358,David Myers,04-18-1999,76,female,E11.9,125 / 81,,Dr. Jones,416.23,united health,
+1359,David Poole,08-05-2004,39,F,I10,125 / 82,,Dr. Adams,$493.54,BCBS,Follow-up in 2 weeks
+1360,Kenneth Davis,05-12-2006,73,Female,,129/77,60,Dr. Jones,417.89,Aetna,Missing lab results
+1361,Lisa Gonzales,"Dec 19, 1995",,F,I25.10,131/87,67,Dr. Smith,$466.17,Aetna,N/A
+1362,Annette Holmes,2005/08/15,,MALE,E11.9,121 / 75,93,Dr. Adams,259.04,,N/A
+1363,William Bowers,1980.10.05,52,MALE,I10,111/78,,Dr. Jones,$484.24,BlueCross,Complaint: headaches
+1364,Lisa Mcclain DVM,04-15-2025,28,Male,,120/72,,,400.15,Blue cross,Complaint: headaches
+1365,Julie Hoffman,1972/08/20,,Female,E11.9,144/91,,Dr. Adams,,BlueCross,
+1366,Jeffrey Mcdaniel,1997.09.18,79,F,E78.5,121 / 84,,Dr. Adams,406.99,Aetna,Follow-up in 1 month
+1367,Jessica Lucas,1978.06.01,,MALE,Z00.0,139 / 83,65,Dr. Smith,447.51,UnitedHealthCare,Follow-up in 1 month
+1368,Kristin Jacobs,12-24-2008,,M,R51,118 / 84,80,Dr. Jones,293.38,BCBS,Missing lab results
+1369,Taylor Garcia,1998.08.17,21,M,,127/83,,,$493.9,Blue cross,N/A
+1370,Michelle Mejia,"Jun 09, 2005",29,F,E11.9,,,Dr. Jones,401.59,,
+1371,Jonathan Mason,2005/02/07,,MALE,I10,125/91,62,,,Aetna,-
+1372,Ana Jackson,"Apr 24, 1978",,MALE,,134/82,,Dr. Patel,$369.56,BCBS,Missing lab results
+1373,Julia Andrews,"Sep 24, 1971",23,M,F32.9,124 / 73,,Dr. Jones,269.99,UnitedHealthCare,Follow-up for physical
+1374,Samantha Bradley,1985/07/17,,Female,I25.10,141/82,,,469.03,Aetna,Follow-up for physical
+1375,Katherine Roberson,1986.04.29,,M,,115/80,,,341.2,UnitedHealthCare,Depression screening
+1376,Samantha Walker,"Aug 24, 1981",50,Male,I25.10,114 / 88,,Dr. Adams,$302.94,UnitedHealthCare,Complaint: headaches
+1377,Jessica White,"Sep 03, 2019",,Male,Z00.0,140 / 93,74,Dr. Patel,357.58,AETNA,Follow-up for physical
+1378,Ian Nelson,12-10-1972,28,MALE,Z00.0,130/78,,Dr. Adams,$316.35,united health,Needs prescription refill
+1379,Kimberly Williams,"Aug 07, 2008",,Female,R51,125 / 70,,,499.17,BlueCross,Depression screening
+1380,Lisa Marsh,1999.07.30,36,F,Z00.0,148/89,,Dr. Patel,413.93,BCBS,Follow-up in 2 weeks
+1381,Christopher Solomon,1995/03/09,57,MALE,I10,146 / 89,94,Dr. Adams,$381.38,AETNA,Follow-up for physical
+1382,Amber Gray,"Jun 30, 2005",,Female,F32.9,131 / 83,66,Dr. Patel,$346.77,Aetna,Depression screening
+1383,Jason Nichols,08-13-2012,,F,F32.9,111/90,97,,$395.54,BCBS,
+1384,Jennifer Marks,2003/05/04,,female,Z00.0,148/74,60,Dr. Adams,253.03,BCBS,Depression screening
+1385,Ashley Scott,1998/05/30,69,F,J45,130/90,77,Dr. Patel,489.89,BlueCross,Complaint: headaches
+1386,Patrick Mullins,"Sep 07, 2004",55,Male,E78.5,144 / 86,70,,$374.83,UnitedHealthCare,Follow-up in 1 month
+1387,Christopher Perry,"Aug 12, 1985",74,F,E11.9,135/73,,Dr. Smith,310.87,BCBS,Needs prescription refill
+1388,Paige Sandoval,"Dec 19, 2012",,MALE,I25.10,144 / 78,,Dr. Smith,403.52,BCBS,N/A
+1389,Kelly Peters,1979.10.01,,MALE,F32.9,130 / 79,72,Dr. Adams,488.83,Aetna,
+1390,Tracey Martin MD,1999/04/24,,F,R51,118/78,,Dr. Adams,$359.4,united health,Needs prescription refill
+1391,Ian Duarte,1978/03/16,48,F,E11.9,,99,,$456.28,,Follow-up in 1 month
+1392,Mr. Timothy Drake III,03-23-1999,,MALE,J45,,67,,$403.48,Aetna,Depression screening
+1393,Bobby Roberts,2003.01.28,79,Female,I10,,78,Dr. Patel,434.36,Aetna,Follow-up in 1 month
+1394,April Rangel,2005.03.20,20,female,,146/77,,Dr. Smith,271.2,Aetna,Follow-up for physical
+1395,Willie Cannon,"May 10, 1972",62,Male,I25.10,133 / 72,83,Dr. Jones,,BCBS,Follow-up for physical
+1396,David Stokes,"Jun 01, 1976",,Male,I25.10,130 / 77,,,338.31,BlueCross,Follow-up in 1 month
+1397,Amy Stein PhD,01-20-2024,,MALE,F32.9,120 / 89,74,,$415.34,Blue cross,Complaint: headaches
+1398,Jamie Miller,2011/11/24,47,MALE,Z00.0,114/74,,,$441.09,BCBS,Needs prescription refill
+1399,Michael Kennedy,1978/11/17,,MALE,I25.10,141/85,87,Dr. Jones,323.86,BlueCross,N/A
+1400,Wendy Mcguire,1980.07.03,59,Female,I25.10,118 / 71,,,252.61,AETNA,Follow-up for physical
+1401,Megan Ball,2009.03.25,,Male,R51,,,Dr. Adams,369.56,Blue cross,Follow-up in 1 month
+1402,Amy West,06-05-2018,,M,F32.9,130 / 73,71,Dr. Adams,494.99,united health,Follow-up in 2 weeks
+1403,Paul Miller,1983/07/17,73,Male,,141 / 85,,Dr. Patel,$414.12,BlueCross,Follow-up in 1 month
+1404,Jonathan Perez,1980/07/06,,female,Z00.0,124/86,,Dr. Adams,$306.15,,Follow-up for physical
+1405,Sheila Riley,1971/11/14,,M,E11.9,123 / 94,,Dr. Smith,310.17,BCBS,Follow-up for physical
+1406,Katie Chandler,1983.04.11,,F,E11.9,141 / 88,80,Dr. Jones,417.86,Blue cross,N/A
+1407,Kathy Richards,2025.03.09,49,MALE,R51,148 / 86,71,,$386.0,BlueCross,Depression screening
+1408,Eric Nolan,06-25-2020,40,MALE,I25.10,130 / 77,,,444.11,BCBS,Missing lab results
+1409,Robert Smith,04-28-2019,,M,,120 / 91,81,,317.33,UnitedHealthCare,
+1410,Stephen Nunez,2012/08/29,47,Male,,122 / 87,61,Dr. Smith,$421.32,,Follow-up for physical
+1411,Henry Underwood,2023/09/12,71,female,E11.9,,,Dr. Adams,$335.6,AETNA,-
+1412,Gary Key,2007/07/12,,female,F32.9,131/80,96,Dr. Patel,,united health,
+1413,Brian Rivera,2021/01/27,,Female,I25.10,142/93,62,Dr. Jones,276.48,,Follow-up for physical
+1414,Richard Lynch,03-03-2013,42,M,,,,Dr. Patel,$394.29,Blue cross,Missing lab results
+1415,Nathan Gordon,"Jun 09, 1989",,Female,E78.5,146 / 84,,Dr. Adams,389.51,Blue cross,
+1416,Michael Hart,"Dec 13, 2001",27,female,F32.9,114 / 72,,,274.79,AETNA,Follow-up for physical
+1417,Tyler Willis,"Jul 17, 1992",,M,R51,143/80,,Dr. Patel,435.59,united health,Complaint: headaches
+1418,Janice Hill,"Apr 23, 1980",65,F,I25.10,136 / 71,,Dr. Patel,338.85,Aetna,Follow-up in 2 weeks
+1419,Angela Reeves,1994/01/07,32,Female,R51,,,Dr. Patel,258.83,BCBS,Missing lab results
+1420,Scott Brown,04-16-1997,,Female,J45,123/94,93,Dr. Patel,$341.99,,
+1421,Jeffrey Vaughn,1980.07.28,,female,R51,140 / 92,,Dr. Smith,$375.51,Aetna,Follow-up in 2 weeks
+1422,Tracy Lopez,2010/02/19,,Male,R51,113/89,,Dr. Jones,$304.3,BlueCross,Complaint: headaches
+1423,Scott Salinas,2022/07/22,45,Male,R51,147 / 90,99,Dr. Adams,250.8,,Depression screening
+1424,Christian Schroeder,2019.12.17,,M,F32.9,113 / 94,79,Dr. Jones,$397.05,,Follow-up in 1 month
+1425,Sara Jones,2021/05/03,23,Female,J45,123 / 72,83,Dr. Smith,395,united health,-
+1426,Ryan Steele,2024/08/25,,F,R51,113/93,,,399.84,UnitedHealthCare,Follow-up for physical
+1427,Susan Cochran,"Aug 19, 2019",38,Female,R51,128/86,,Dr. Adams,423.85,united health,-
+1428,Michael Morton,1979/12/23,,female,E11.9,147 / 90,,Dr. Adams,379.32,BlueCross,Follow-up for physical
+1429,Steven Reed,11-28-1984,67,F,I10,145/92,,Dr. Smith,$342.86,AETNA,
+1430,Melissa Aguilar,1987.04.02,68,female,I10,137/84,70,Dr. Patel,$483.28,Aetna,Follow-up in 2 weeks
+1431,Patricia Buchanan,1976.07.27,64,Male,E11.9,126 / 75,,Dr. Patel,$446.41,,-
+1432,Jacqueline Hamilton,1982/02/12,46,female,E11.9,115 / 84,,Dr. Jones,345.96,AETNA,Follow-up in 1 month
+1433,Thomas Parrish,"Jan 25, 2007",,MALE,Z00.0,118 / 85,64,Dr. Patel,391.39,Aetna,-
+1434,James Jordan,"May 01, 2000",,female,Z00.0,112/82,,Dr. Jones,396.62,united health,N/A
+1435,Kenneth Rogers,09-08-1977,25,female,J45,,,Dr. Smith,306.39,,-
+1436,Loretta Henderson,02-05-2015,24,M,R51,146 / 89,,Dr. Smith,484.34,BCBS,Needs prescription refill
+1437,Janet Vincent,"Mar 02, 1984",,Female,J45,135/73,98,Dr. Jones,374.12,BCBS,Follow-up in 2 weeks
+1438,Pedro Gordon,1971/05/10,,F,F32.9,145/75,,Dr. Patel,$414.24,BCBS,N/A
+1439,Miranda Clark,1996.06.05,55,MALE,Z00.0,139/93,,Dr. Adams,315.43,AETNA,N/A
+1440,Michael Reese,1997.12.14,54,M,J45,137 / 83,,Dr. Adams,342.8,BlueCross,Needs prescription refill
+1441,Natalie Miller,08-04-2007,,female,E78.5,134 / 82,,,289.1,UnitedHealthCare,Depression screening
+1442,Kimberly Hendrix,2002/10/08,,Male,F32.9,129 / 87,,Dr. Smith,328.8,BlueCross,Follow-up in 1 month
+1443,Rebecca Young,"Dec 25, 1977",46,Male,E78.5,115 / 84,,Dr. Smith,415.95,BlueCross,-
+1444,Justin Garcia,2011/09/20,,M,Z00.0,124 / 85,66,Dr. Jones,263.06,AETNA,Depression screening
+1445,Michael Lopez,1982.08.07,,Male,J45,123/94,,Dr. Adams,494.89,BlueCross,N/A
+1446,Christina Hopkins,"Jun 08, 1985",24,female,E78.5,132 / 74,83,Dr. Adams,$365.98,Blue cross,Depression screening
+1447,Daisy Fisher,05-11-2000,44,female,F32.9,121/94,,Dr. Adams,430,BCBS,Follow-up for physical
+1448,Henry Baker,2018/10/30,61,Female,J45,116 / 91,92,,$495.13,BCBS,-
+1449,Isaiah Thomas,2001.10.04,,M,I10,148/91,,Dr. Jones,270.43,united health,
+1450,David Hamilton,05-23-1982,,F,E11.9,110 / 79,80,Dr. Patel,486.42,united health,Follow-up in 2 weeks
+1451,Jimmy Hanson,1983/10/07,67,female,R51,,,Dr. Smith,$352.94,Blue cross,Follow-up in 2 weeks
+1452,Donna Hobbs,"Aug 05, 1993",,Female,J45,121/93,,Dr. Smith,451.6,AETNA,
+1453,Donna Lester,1976/12/14,29,Male,Z00.0,141/76,,,$386.21,AETNA,N/A
+1454,Ashley Hunt,"Nov 16, 2003",,M,R51,131/84,99,Dr. Smith,414.91,Blue cross,Depression screening
+1455,Christopher Tanner,03-26-2024,,M,Z00.0,123/78,,Dr. Adams,437.68,AETNA,Depression screening
+1456,Rebecca Craig,1978/03/15,68,Female,Z00.0,111 / 94,,Dr. Jones,$273.54,,Complaint: headaches
+1457,Steven Elliott,"May 14, 1982",,MALE,E78.5,,,Dr. Patel,$342.98,Aetna,Follow-up in 1 month
+1458,Erin Johnson,1994.01.15,42,Male,R51,128/74,,Dr. Jones,$296.68,UnitedHealthCare,Depression screening
+1459,Matthew Bradford,"Mar 16, 1973",,female,J45,137/78,95,Dr. Smith,408.65,,Follow-up in 2 weeks
+1460,Cynthia Williams,08-30-2013,74,female,R51,124 / 85,,Dr. Patel,289.49,UnitedHealthCare,Missing lab results
+1461,Timothy Macdonald,"Oct 30, 1997",,Male,R51,121/71,,Dr. Smith,$464.29,Blue cross,Needs prescription refill
+1462,Jill Green,"Oct 01, 2000",22,M,F32.9,,,Dr. Patel,300.5,united health,Follow-up in 1 month
+1463,Christian Mason,"Nov 06, 2016",27,M,I10,141/85,,Dr. Jones,449.65,BCBS,-
+1464,Laura Ayers,2011/08/25,,female,,128 / 78,71,Dr. Jones,376.3,BCBS,-
+1465,Maria Ferrell,"Nov 26, 1977",35,female,,130 / 82,,Dr. Smith,330.75,BlueCross,Missing lab results
+1466,Anthony Jackson,08-20-1997,,M,E78.5,137 / 75,90,Dr. Patel,290.56,Aetna,N/A
+1467,David Ruiz,10-14-2012,46,Male,,134 / 72,,Dr. Patel,429.84,Aetna,
+1468,Kendra Alexander,08-10-2018,,M,R51,114 / 72,,Dr. Jones,$296.85,,Complaint: headaches
+1469,Melissa White,04-26-1978,48,MALE,I25.10,147 / 87,65,Dr. Smith,439.9,AETNA,
+1470,Danielle Booth,"Oct 16, 1982",76,female,I25.10,,68,,313.58,BCBS,
+1471,Daniel Hayes,"Jun 15, 1981",41,F,J45,121/85,,Dr. Patel,$456.49,AETNA,Missing lab results
+1472,Ms. Leslie Perez DDS,1990/04/18,52,Female,Z00.0,144/89,93,Dr. Jones,434.92,Blue cross,Follow-up for physical
+1473,Mary Lopez,12-17-1987,,MALE,I25.10,120 / 94,,Dr. Smith,394.31,Blue cross,Follow-up for physical
+1474,Annette Hammond,1971.09.08,36,MALE,F32.9,120 / 84,86,Dr. Smith,$257.78,Blue cross,
+1475,Leslie Jensen,1991.12.25,,MALE,I25.10,111 / 72,,Dr. Patel,$267.41,Blue cross,
+1476,Tracy Vega,10-28-2010,,female,I10,,,Dr. Smith,268.17,BlueCross,N/A
+1477,Michael Williams,"Jul 10, 1975",,M,F32.9,134 / 84,97,Dr. Patel,303.16,Aetna,Complaint: headaches
+1478,Patricia Wilson,"Sep 07, 1999",54,MALE,I10,123/73,71,Dr. Patel,441.52,BlueCross,Follow-up in 2 weeks
+1479,Timothy Schaefer,02-16-1970,,M,I10,122/84,77,Dr. Patel,476.8,,Follow-up in 1 month
+1480,Jenna Moore DDS,2015/03/10,78,F,J45,132 / 71,,,466.14,BCBS,N/A
+1481,William Summers,1999.06.10,,Male,J45,144 / 88,89,Dr. Adams,277.68,,Depression screening
+1482,Mary Montes,"Aug 08, 1996",39,F,,134/77,,Dr. Adams,479.52,AETNA,-
+1483,Brandon Williams,10-17-1985,,MALE,R51,,,,$477.69,AETNA,Missing lab results
+1484,Brittany Parker,"Oct 07, 2011",61,MALE,Z00.0,118 / 89,,Dr. Jones,431.67,Blue cross,Follow-up in 1 month
+1485,Mary Baker,"Jun 21, 2010",,M,,128 / 84,,,425.92,UnitedHealthCare,Needs prescription refill
+1486,Arthur Alexander,2012/04/23,,female,Z00.0,126/78,,,253.1,Aetna,
+1487,James Gonzalez,2015/03/24,,Male,J45,134/83,70,Dr. Adams,$324.31,Aetna,Follow-up in 2 weeks
+1488,Derrick Black,2016/04/15,,MALE,J45,139 / 78,63,Dr. Adams,475.72,BlueCross,Follow-up for physical
+1489,Marcus Miles,"Dec 10, 2023",,MALE,J45,131/78,75,,459.54,BCBS,-
+1490,Michael Rice,1997.01.01,,M,E11.9,,,,447.29,united health,Complaint: headaches
+1491,Wanda Stanley,"Jun 03, 1988",40,Female,,130 / 74,79,,399.74,BlueCross,Missing lab results
+1492,Scott Blankenship,09-05-1973,52,F,Z00.0,118 / 78,,Dr. Smith,417.3,united health,
+1493,Michael Gonzalez,2024/08/14,,female,J45,133 / 70,,Dr. Jones,,Blue cross,Follow-up in 1 month
+1494,John Thomas,1989/08/03,27,M,E78.5,132 / 84,,Dr. Smith,270.55,united health,
+1495,Ryan Young,"Oct 10, 1990",,Male,E11.9,124 / 78,,Dr. Smith,$291.21,Blue cross,N/A
+1496,Brandon Johns,10-21-2023,,female,E11.9,130/88,,,447.2,UnitedHealthCare,Needs prescription refill
+1497,Samantha Walton,1980.10.18,,M,I10,116 / 73,,Dr. Patel,$346.13,united health,
+1498,Ronald Tucker,1972/08/03,64,F,E11.9,131/81,,Dr. Jones,400.16,Blue cross,Follow-up in 2 weeks
+1499,Laura Phillips,"Jan 03, 2003",74,female,Z00.0,110 / 77,,Dr. Jones,267.73,Aetna,N/A
+1500,Gavin Jones,10-09-2011,,MALE,I10,126/81,,,476.85,Blue cross,Follow-up in 1 month
+1501,Allison Escobar,"Jul 26, 2024",,female,I25.10,128/79,60,Dr. Patel,332.84,Blue cross,Follow-up for physical
+1502,Robert Brown,"Aug 02, 1992",68,F,Z00.0,149 / 83,,,$402.7,,Missing lab results
+1503,Andre Parker,2015.10.24,,female,I25.10,122 / 75,67,Dr. Smith,460.98,Aetna,Depression screening
+1504,Tyler Evans,07-01-1981,,Male,I10,148 / 90,,,271.77,AETNA,Follow-up in 1 month
+1505,Jesse Kelly,01-17-1979,60,Female,E11.9,,98,Dr. Jones,468.56,BlueCross,-
+1506,Sonya Walls,1996.05.14,,female,I10,122/80,,Dr. Smith,261.21,Blue cross,Missing lab results
+1507,Dana Lawrence,2021/03/10,30,MALE,E78.5,,,Dr. Patel,470.56,,Follow-up for physical
+1508,Diane Johnson,05-28-2004,72,MALE,,121/85,92,Dr. Jones,429.61,Blue cross,Needs prescription refill
+1509,Crystal Lewis,1978/06/05,,Female,R51,114 / 77,84,Dr. Jones,250.53,,N/A
+1510,Eric Thompson,11-09-1999,49,Male,I10,,,Dr. Smith,314.17,AETNA,N/A
+1511,Eric Lindsey,"Apr 04, 2008",,M,,142 / 73,77,Dr. Jones,280.26,Blue cross,Needs prescription refill
+1512,William Gutierrez,10-24-1990,,MALE,E78.5,129/86,,Dr. Smith,270.05,united health,Depression screening
+1513,Amanda Zuniga,"Jun 28, 1977",34,Female,E11.9,148/71,88,,$411.61,BlueCross,Follow-up in 2 weeks
+1514,Matthew Rhodes,1983/05/11,70,F,Z00.0,122/79,,Dr. Jones,$284.72,BCBS,N/A
+1515,Aaron Warren,1970/01/31,28,Male,E11.9,148/72,,Dr. Patel,280.14,UnitedHealthCare,-
+1516,Patricia Flynn,07-25-1987,21,Male,E78.5,147/72,,Dr. Adams,285.53,BlueCross,Complaint: headaches
+1517,Julie Fuller,09-02-1993,36,MALE,I25.10,121 / 72,60,Dr. Adams,394.3,united health,Follow-up for physical
+1518,Sarah Bailey,11-30-2023,,MALE,I10,135 / 74,,,389.66,Aetna,
+1519,Jeanne Webb,1986.12.10,50,female,J45,132/93,,,346.85,united health,
+1520,Aaron Garza,1972/02/20,,M,I10,145/72,68,Dr. Patel,$465.44,BCBS,
+1521,Elizabeth Brown,2025.02.15,,Male,I10,143/72,,,394.82,Blue cross,Depression screening
+1522,Deborah Davis,1985.06.29,60,MALE,I10,132 / 77,,Dr. Patel,253.08,Blue cross,Follow-up in 2 weeks
+1523,Alan Howard,"Feb 07, 1972",78,Female,I25.10,145/70,,,$381.45,,N/A
+1524,Rebecca Johnson,03-27-1999,,female,I10,137 / 74,,Dr. Patel,$261.19,Aetna,
+1525,Melissa Mason,1989/09/07,20,Male,R51,129 / 88,,Dr. Patel,$411.46,UnitedHealthCare,Depression screening
+1526,Kathy Thomas,08-29-1990,47,Female,,140/80,,Dr. Adams,$401.44,Blue cross,Depression screening
+1527,Kevin Chen,2001/10/08,,Female,R51,121 / 75,60,Dr. Patel,422.07,AETNA,Depression screening
+1528,Monique Ford,1991.10.17,,MALE,,114 / 93,83,Dr. Jones,382.98,Blue cross,Missing lab results
+1529,Jacob Jones,1974.07.16,,M,E11.9,135 / 83,,,$348.86,BlueCross,Needs prescription refill
+1530,Sheila Parsons,"Dec 11, 1988",25,MALE,J45,124 / 90,,Dr. Jones,$475.02,united health,Follow-up in 1 month
+1531,Kathy Wright,09-17-2002,,M,R51,146/72,,Dr. Smith,400.74,BCBS,Needs prescription refill
+1532,Richard Hall,10-11-2016,79,Female,I25.10,138 / 82,76,Dr. Adams,492.69,BCBS,
+1533,Elizabeth Hall,10-19-2007,,M,J45,114/74,,Dr. Adams,$292.08,UnitedHealthCare,
+1534,Sharon Sweeney,"Dec 11, 1987",72,M,J45,132/88,,Dr. Patel,456.7,BCBS,Follow-up in 1 month
+1535,Christina Robinson,1978.03.28,64,Male,F32.9,130/83,,Dr. Patel,457.67,UnitedHealthCare,Needs prescription refill
+1536,Jodi Doyle,1994/11/27,23,MALE,J45,110/93,94,Dr. Patel,406.56,BlueCross,N/A
+1537,Mary Manning,2006/05/29,,F,E78.5,126 / 72,,Dr. Adams,$470.08,Aetna,-
+1538,Mike Garcia,09-20-1976,,F,E11.9,133 / 88,96,Dr. Smith,348.78,UnitedHealthCare,Complaint: headaches
+1539,Gabriel Pace,2022.06.21,47,F,R51,126 / 74,,Dr. Patel,306.94,Blue cross,-
+1540,Deborah Rosales,04-05-1983,46,F,I25.10,143/80,,,282.66,Blue cross,N/A
+1541,Johnny Gordon,12-20-1970,30,MALE,R51,,,,318.94,Aetna,Complaint: headaches
+1542,Andrew Mccarty,"May 03, 2008",,female,J45,121/75,76,,,Aetna,
+1543,Randall Patterson,"May 22, 2022",,female,I25.10,141/75,,Dr. Patel,380.61,AETNA,Missing lab results
+1544,Morgan Walsh,2001.05.01,43,F,E78.5,,76,,$473.61,UnitedHealthCare,
+1545,Erika Moore,2007/06/19,,M,I25.10,137/88,63,Dr. Smith,,Aetna,N/A
+1546,David Adams,2001/05/26,64,F,J45,118 / 77,76,Dr. Patel,,Aetna,Follow-up in 1 month
+1547,Gregory Hill,"Sep 29, 2005",68,female,J45,141/77,78,Dr. Patel,470.87,Aetna,Needs prescription refill
+1548,Emily Wolfe,07-17-2005,78,MALE,R51,122 / 84,90,Dr. Patel,254.78,BCBS,Missing lab results
+1549,Karen Horn,1997.12.16,,Female,E78.5,138/91,,Dr. Smith,381.81,Blue cross,Complaint: headaches
+1550,Elizabeth Anderson,"Jul 30, 2011",,Male,J45,121 / 71,83,Dr. Patel,302.68,UnitedHealthCare,N/A
+1551,Kelly Guerra,1976/05/05,,Male,E78.5,139/84,94,Dr. Patel,$300.16,Blue cross,Complaint: headaches
+1552,Danny Fox,1994/07/19,45,F,F32.9,,89,Dr. Smith,261.04,Aetna,Follow-up in 2 weeks
+1553,Melvin Steele,"Sep 22, 1999",55,Male,E11.9,146/70,74,Dr. Adams,251.42,Blue cross,N/A
+1554,Christina Hall,07-07-1998,27,M,R51,118/70,95,Dr. Adams,$403.4,BlueCross,Follow-up in 1 month
+1555,Edward Lester,01-22-1999,59,M,J45,118/71,,Dr. Jones,421.85,AETNA,Follow-up for physical
+1556,Jeff Collins,1997.12.14,,Male,J45,120/72,67,Dr. Smith,$408.02,UnitedHealthCare,Missing lab results
+1557,Jeffrey Herrera,2024.10.23,32,Female,I25.10,141/71,78,Dr. Jones,467.24,,Needs prescription refill
+1558,Mark Goodman,04-15-2018,,M,I25.10,126 / 92,,,$310.56,AETNA,Follow-up for physical
+1559,Oscar Buchanan,2024/07/11,,female,I25.10,147 / 71,,Dr. Jones,350.72,Blue cross,N/A
+1560,Kevin Forbes,"Apr 22, 1980",66,Female,R51,143/76,,Dr. Adams,323.13,Aetna,
+1561,Elizabeth Henson,1971/02/08,,female,F32.9,136/91,88,,$369.11,AETNA,Missing lab results
+1562,Virginia Bryan,2005.09.28,20,F,E78.5,139 / 90,,Dr. Jones,258.42,BlueCross,N/A
+1563,Jeffrey Young,1977.12.22,38,M,J45,128/94,,Dr. Smith,296.96,united health,Needs prescription refill
+1564,Jason Johnson,2013.08.26,74,M,,141/79,,Dr. Jones,406.2,Blue cross,Complaint: headaches
+1565,Patricia Clark,"Dec 27, 2012",,F,I25.10,141 / 87,,Dr. Patel,$428.49,,N/A
+1566,Alan Gray,1975/04/09,71,F,E11.9,133 / 84,,Dr. Smith,380.04,BCBS,Follow-up in 1 month
+1567,Carl Best,"May 12, 1988",32,F,F32.9,132 / 77,,Dr. Patel,374.17,BCBS,Follow-up for physical
+1568,Brett Sanchez,12-16-2006,,MALE,I10,127/93,93,,263.58,UnitedHealthCare,Follow-up in 2 weeks
+1569,Michael Ellison,2003.05.17,31,female,Z00.0,124/94,,Dr. Patel,$250.03,UnitedHealthCare,Follow-up in 2 weeks
+1570,Gabrielle Brown,1977.06.23,77,F,,135 / 87,,Dr. Smith,,UnitedHealthCare,Complaint: headaches
+1571,Brandon Montes,"Jan 26, 1976",57,Male,I25.10,132/93,67,Dr. Smith,335.09,BCBS,
+1572,Patricia Riggs,1980.07.18,63,F,E78.5,138/80,60,Dr. Smith,$317.6,Aetna,
+1573,Jennifer Combs,04-25-1979,,MALE,E11.9,113/73,77,Dr. Patel,485.75,AETNA,Complaint: headaches
+1574,Kristin Miller,09-07-2011,38,Male,Z00.0,115 / 85,71,Dr. Patel,272.32,AETNA,Follow-up in 1 month
+1575,Holly Olsen,2001/10/12,77,female,,135/70,86,,425.96,,
+1576,Brittany Barton,1989.03.17,29,M,I25.10,132 / 90,80,Dr. Patel,416.6,Blue cross,-
+1577,Jason Wilson,2016.06.22,,M,J45,120/86,63,Dr. Jones,$486.0,Aetna,Depression screening
+1578,Emily Cervantes,11-23-1991,28,F,F32.9,129 / 88,,Dr. Adams,,Aetna,Follow-up in 1 month
+1579,Timothy Gray,2000/08/30,,Male,I25.10,126 / 74,,Dr. Patel,466.46,,Follow-up for physical
+1580,Jodi Arnold,1972/08/01,54,female,J45,127/83,,Dr. Jones,250.72,Aetna,Depression screening
+1581,Barbara Ramirez,05-28-2011,26,Male,R51,122/87,96,Dr. Adams,$353.95,Blue cross,N/A
+1582,Zachary Lopez,02-10-1974,,F,F32.9,118/78,97,Dr. Patel,$432.62,,Depression screening
+1583,Christie Arnold,"Jul 02, 1974",41,Female,R51,145 / 82,82,Dr. Smith,,BlueCross,-
+1584,Lauren Lewis,"Jul 09, 2011",,M,R51,118/93,67,Dr. Adams,281.43,,Needs prescription refill
+1585,Mary Hoffman,"Aug 16, 2024",,Female,Z00.0,115/81,,Dr. Patel,428.3,,Follow-up in 2 weeks
+1586,Marvin Arellano,1970/04/04,73,F,I25.10,145/90,94,,264.52,BCBS,Needs prescription refill
+1587,Ashley Rodriguez,1981/07/01,,MALE,,119 / 90,,Dr. Jones,$316.9,AETNA,N/A
+1588,Rebecca Sweeney,1994.06.01,,female,Z00.0,122 / 74,,Dr. Smith,459.57,BCBS,
+1589,Larry Brady,1986.05.23,,M,I25.10,123/79,94,Dr. Smith,434.05,united health,Missing lab results
+1590,Alex Smith,1978.01.02,57,F,F32.9,121/91,83,Dr. Jones,366.02,united health,Missing lab results
+1591,Harry Riley,1991/04/23,,female,J45,,,Dr. Smith,$363.73,UnitedHealthCare,N/A
+1592,Brian Dean,"Mar 22, 2018",,MALE,F32.9,125/84,,,282.88,united health,Needs prescription refill
+1593,William Davis,04-12-2009,31,F,J45,139 / 78,93,Dr. Patel,$316.4,BCBS,Complaint: headaches
+1594,Theresa Brooks,07-09-2000,,M,E78.5,141/90,84,,434.76,UnitedHealthCare,Complaint: headaches
+1595,Lindsey Miller,2002/05/11,,female,F32.9,121 / 85,,Dr. Jones,392.02,AETNA,Follow-up for physical
+1596,Christopher King,06-17-2002,,MALE,F32.9,145 / 82,,Dr. Smith,,BCBS,Needs prescription refill
+1597,Alyssa Price,"Jul 16, 2018",66,M,I25.10,118 / 80,67,Dr. Adams,401.54,BCBS,Depression screening
+1598,Jacob Schultz,1996.08.20,,F,Z00.0,131 / 73,99,Dr. Patel,427.53,BCBS,Follow-up for physical
+1599,Christopher Clark,2007.07.08,,Female,,143/82,,Dr. Jones,$368.45,BCBS,Follow-up in 2 weeks
+1600,Gabriella Bartlett,2023.07.16,,female,I25.10,135/77,68,Dr. Jones,446.3,AETNA,Depression screening
+1601,Maurice Lewis,01-01-1974,,female,J45,120 / 84,,Dr. Adams,444.23,Aetna,
+1602,Raven Holder,"Dec 02, 2000",36,Male,,135 / 81,,Dr. Adams,474.02,UnitedHealthCare,Follow-up in 2 weeks
+1603,Brooke Blake,"Dec 02, 1971",,female,E11.9,128/80,72,Dr. Patel,$381.82,AETNA,Depression screening
+1604,Richard Johnson,2014/03/18,23,Male,R51,140/80,60,Dr. Patel,486.85,BCBS,-
+1605,Sharon Gamble,1988.05.07,,M,R51,140/78,85,Dr. Smith,482.65,BCBS,-
+1606,Thomas Ray,03-05-2015,,Female,J45,120 / 93,,Dr. Adams,325.48,,Needs prescription refill
+1607,David Adams,"Feb 25, 2018",53,Male,R51,141 / 90,,,318.68,Blue cross,Complaint: headaches
+1608,Timothy Sanders,1982/02/25,,F,F32.9,,,,358.2,BCBS,Depression screening
+1609,Lisa Clark,2021.06.07,49,F,E11.9,139 / 75,,Dr. Adams,302.3,united health,Follow-up in 1 month
+1610,Taylor Moore,"Jun 11, 1975",,Male,,,,Dr. Jones,495.3,AETNA,
+1611,Joseph Silva,1972/06/20,,MALE,E11.9,120 / 81,65,,$299.23,,Follow-up in 2 weeks
+1612,Teresa Wilson,08-17-1971,,female,Z00.0,135/94,71,,$364.74,BCBS,-
+1613,Dr. Randy Young,2006.11.01,37,MALE,Z00.0,132 / 92,,Dr. Jones,$253.26,AETNA,Depression screening
+1614,Christine Harris,03-19-1986,,female,I25.10,138/71,76,,$348.8,BCBS,Follow-up in 2 weeks
+1615,David Watson,"Nov 28, 1976",,Male,E78.5,143 / 92,67,Dr. Adams,463.56,united health,Missing lab results
+1616,Brad Foster,07-01-2021,,Female,I25.10,145 / 84,89,,364.56,AETNA,
+1617,Dorothy Watson,2016.04.18,36,MALE,F32.9,,,,440.89,Aetna,Follow-up in 2 weeks
+1618,Taylor Smith,2011/09/29,,MALE,I25.10,118 / 74,,Dr. Smith,$252.26,,Depression screening
+1619,Mary Cook,"Sep 10, 1978",,female,R51,137 / 79,,Dr. Adams,452.02,united health,
+1620,James Collins,05-16-2015,,female,I25.10,117 / 85,,,357.18,UnitedHealthCare,Depression screening
+1621,Briana Sanchez,12-31-2001,76,M,E11.9,112 / 81,72,Dr. Smith,279.63,AETNA,Needs prescription refill
+1622,Sonia Patterson,"Jul 09, 1972",,Male,I10,136 / 71,,Dr. Adams,378.18,BlueCross,Missing lab results
+1623,Regina Peterson,1974/11/14,26,MALE,E78.5,112 / 89,79,Dr. Patel,258.15,Aetna,N/A
+1624,Morgan Vasquez,2018/09/24,54,F,I25.10,148/83,,Dr. Smith,498.11,Blue cross,Follow-up in 1 month
+1625,Julie Wright,10-22-2003,,Female,E11.9,136/87,63,Dr. Patel,310.1,AETNA,Missing lab results
+1626,Vanessa George,11-28-1992,,M,J45,129 / 89,,Dr. Jones,459.95,UnitedHealthCare,Needs prescription refill
+1627,Molly Robinson,2000.02.03,60,M,F32.9,114/70,,Dr. Smith,$466.69,,Complaint: headaches
+1628,Timothy Waller,06-25-1975,64,MALE,R51,138 / 73,,Dr. Smith,$359.15,UnitedHealthCare,Complaint: headaches
+1629,Vincent Smith,1993.02.24,70,F,I10,144/81,85,Dr. Jones,320.62,Aetna,Complaint: headaches
+1630,Logan Munoz,08-22-1994,79,female,,116/77,64,Dr. Patel,,Aetna,Follow-up in 1 month
+1631,Charles Crane,"Dec 07, 1993",,F,E78.5,132/79,79,,386.13,,-
+1632,Karen Mills,"Jun 21, 2014",64,MALE,R51,117/78,,Dr. Smith,$463.76,Blue cross,Follow-up in 1 month
+1633,Katherine Smith,1988/10/12,,female,J45,,74,Dr. Smith,$376.73,Aetna,Complaint: headaches
+1634,Patricia Cruz,"Jun 04, 1998",22,M,Z00.0,133 / 77,,Dr. Jones,261.91,BlueCross,Depression screening
+1635,Gregory Bullock,"May 25, 1971",,female,,138 / 93,,Dr. Smith,456.2,united health,Missing lab results
+1636,David Fuentes,05-19-1983,53,Female,R51,132 / 90,82,,$259.39,BCBS,Depression screening
+1637,Amy Williams,1983.01.25,,M,,115/74,,Dr. Patel,306.53,AETNA,Depression screening
+1638,Alec Phelps,2009.03.31,57,Female,,129/72,81,Dr. Smith,$297.78,united health,Depression screening
+1639,Ryan Wells,01-28-1977,,Female,,121/75,95,,353.99,Aetna,Follow-up in 2 weeks
+1640,Joseph Larsen,10-14-2015,32,M,R51,139 / 74,,Dr. Adams,454.19,Aetna,Needs prescription refill
+1641,Ashley Vargas,1985.04.01,33,female,I25.10,,,Dr. Jones,440.62,Aetna,
+1642,April Nelson,09-18-2023,73,F,I25.10,117/86,75,Dr. Adams,353.62,AETNA,Depression screening
+1643,John Sawyer,"Oct 10, 1977",,M,E11.9,141/71,68,Dr. Adams,488.06,BlueCross,Depression screening
+1644,Caroline Watts,1971/03/01,,Female,I10,126/73,84,Dr. Smith,439.75,Blue cross,-
+1645,Matthew Hansen,2003.03.06,57,MALE,E78.5,110/94,,Dr. Smith,$293.02,united health,-
+1646,Rachel Lawrence,"Jul 21, 1989",36,MALE,R51,133 / 71,99,Dr. Jones,$428.58,BlueCross,Follow-up in 1 month
+1647,Dalton Cameron,06-08-1975,,Male,E11.9,110/84,,Dr. Adams,$432.25,Aetna,Complaint: headaches
+1648,Pamela Smith,1977.10.13,76,M,J45,,,,$298.81,UnitedHealthCare,Needs prescription refill
+1649,Cheryl Maxwell,2005/11/12,,Male,I10,115/89,62,,425.29,Blue cross,Needs prescription refill
+1650,Michelle Ramirez,08-22-2010,,MALE,F32.9,,,Dr. Adams,$345.13,Blue cross,-
+1651,Kenneth Dixon,2016.09.06,,F,I25.10,,77,Dr. Adams,$256.3,BCBS,-
+1652,Alicia Velez,1982.10.10,71,MALE,I25.10,,,Dr. Smith,460.82,BlueCross,Follow-up in 2 weeks
+1653,Teresa Edwards,2019/04/26,,M,F32.9,133/88,65,Dr. Smith,$383.57,Blue cross,Needs prescription refill
+1654,Karen Meyers,"Jul 05, 1974",59,Male,J45,110/74,,Dr. Adams,465.66,UnitedHealthCare,Follow-up for physical
+1655,Matthew Patel,2012/02/19,,female,I25.10,144/88,,Dr. Adams,282.93,BlueCross,N/A
+1656,Tracy Cox,2003/09/18,29,Male,I10,129 / 73,,,467.85,Blue cross,Follow-up in 1 month
+1657,Doris Hayes,1994.06.07,70,female,I25.10,146 / 77,,Dr. Smith,$406.22,BlueCross,Missing lab results
+1658,Ryan Russell DDS,"Dec 17, 2017",,Female,I25.10,,78,Dr. Patel,253.04,united health,Missing lab results
+1659,Vanessa Oconnor,07-10-1989,,Female,E78.5,142/86,,,254.95,united health,Follow-up in 2 weeks
+1660,Greg Powers,01-18-1973,72,female,F32.9,114 / 81,,Dr. Adams,333.51,BCBS,Missing lab results
+1661,Scott York,2008.02.16,,Female,Z00.0,123/74,,Dr. Patel,270.98,Aetna,Follow-up in 1 month
+1662,Javier Martin,"Dec 12, 2011",,F,I10,128 / 91,64,,264.15,AETNA,Depression screening
+1663,Angela Hogan,2015/05/03,66,Male,E78.5,,,Dr. Smith,$417.87,united health,Follow-up for physical
+1664,Jon Chandler,1979/07/02,34,Male,E78.5,123 / 92,,Dr. Adams,354.58,Blue cross,Missing lab results
+1665,Mitchell Perkins,1981.04.06,73,Male,R51,129 / 93,77,Dr. Patel,358,united health,Missing lab results
+1666,Kimberly Young,2007/11/06,,female,I25.10,135 / 79,,Dr. Jones,294.84,Blue cross,N/A
+1667,Chad Hill,2003/07/23,,F,I10,114/78,,Dr. Jones,$434.47,,Complaint: headaches
+1668,Scott Evans,2016/06/28,,F,E78.5,136/86,71,,316.07,Blue cross,Follow-up for physical
+1669,Michael Ortiz,"May 27, 2007",,M,E78.5,134 / 72,,Dr. Smith,$321.87,BCBS,Follow-up in 1 month
+1670,Melissa Harrison,05-21-1972,,F,I25.10,131 / 80,,Dr. Adams,398.84,UnitedHealthCare,Needs prescription refill
+1671,Brian Ramirez,"Dec 14, 2022",46,M,R51,147/89,86,Dr. Adams,273.02,BlueCross,Complaint: headaches
+1672,Theresa Patton,"Jan 19, 1977",63,Female,E78.5,129 / 72,,,410.41,UnitedHealthCare,
+1673,James Walker,06-30-2021,41,Female,E11.9,115/84,,Dr. Adams,390.91,united health,Depression screening
+1674,Katie Clark,2002/05/13,28,female,R51,141 / 85,65,Dr. Jones,$381.44,BlueCross,Follow-up in 1 month
+1675,David Monroe,11-28-1980,,F,E78.5,111/73,60,Dr. Jones,$276.48,united health,Needs prescription refill
+1676,Ronald Carpenter,2000/06/14,29,MALE,E78.5,124 / 91,80,Dr. Jones,,BCBS,Complaint: headaches
+1677,Larry Sanders,1979/03/31,,Female,Z00.0,145 / 71,89,Dr. Adams,262.62,,Missing lab results
+1678,Kelly Lambert,07-11-2002,20,Female,E78.5,113 / 76,,Dr. Smith,484.91,BlueCross,
+1679,Austin Bennett,1978/02/26,,M,J45,118 / 82,,Dr. Adams,303.67,AETNA,-
+1680,Gregory Young,"Nov 24, 2022",57,female,E11.9,119 / 87,,Dr. Smith,331.76,BCBS,Follow-up for physical
+1681,Janet Mccann,10-22-1988,71,F,I25.10,130/94,87,Dr. Smith,$314.68,united health,Depression screening
+1682,Matthew Escobar,2023.07.06,48,M,F32.9,118/88,87,Dr. Patel,$386.72,Blue cross,Needs prescription refill
+1683,Joseph Fisher,"Jun 04, 2020",,Female,I10,129/82,99,,299.82,AETNA,Follow-up for physical
+1684,Justin Wagner,01-25-2007,42,Female,I25.10,141/89,92,Dr. Jones,253.95,Blue cross,Needs prescription refill
+1685,Jasmine Owens,10-31-2012,,Male,R51,,70,Dr. Adams,$356.19,Aetna,-
+1686,Steven Clark,1976/11/06,77,female,,120 / 85,,Dr. Patel,487.87,,
+1687,Brittany Reid,"Sep 01, 2003",,MALE,J45,147 / 88,95,Dr. Adams,320.83,AETNA,Depression screening
+1688,Maria Riley,03-07-1991,,M,E78.5,112/79,97,,313.34,UnitedHealthCare,N/A
+1689,Diana Arias,"Oct 13, 1994",,female,I10,117/88,76,Dr. Adams,301.55,,Follow-up in 1 month
+1690,Kimberly Black,12-01-1972,62,Male,I10,148 / 86,87,Dr. Patel,473.84,,Complaint: headaches
+1691,Vincent Campbell,11-25-1998,,Male,,130 / 71,,,374.86,BCBS,Missing lab results
+1692,Maria Cox,1995/06/04,,female,I25.10,,,,$456.19,Blue cross,Depression screening
+1693,John Johnson,09-08-2006,,Male,J45,120/94,,Dr. Jones,397.56,Blue cross,Complaint: headaches
+1694,George Wong,2001.07.26,26,Female,Z00.0,133/73,87,Dr. Smith,320.26,united health,Follow-up in 1 month
+1695,Alex Curtis,1978.02.19,,Male,J45,147/87,,Dr. Adams,289.87,AETNA,Depression screening
+1696,William Ball,02-05-1992,67,female,E11.9,114/86,,Dr. Patel,416.05,BCBS,Complaint: headaches
+1697,Erika Fernandez,04-02-1994,26,MALE,F32.9,129/88,,Dr. Smith,322.3,BlueCross,-
+1698,Johnny Warren,1979/07/04,,female,,136/93,82,Dr. Adams,339.22,Blue cross,Follow-up for physical
+1699,Darren Stewart,"Oct 28, 2023",,MALE,R51,133 / 94,91,Dr. Jones,$488.2,AETNA,Complaint: headaches
+1700,Michelle Neal,1978/06/10,,Female,F32.9,,92,Dr. Adams,275.64,AETNA,Depression screening
+1701,Dillon Boyer,2011/06/15,,female,E78.5,144 / 76,81,Dr. Patel,$464.7,BlueCross,
+1702,Samantha James,07-06-2018,61,Male,,126 / 81,,Dr. Jones,$437.09,UnitedHealthCare,N/A
+1703,Jeffrey Conley,"Aug 11, 2022",76,female,,131/78,88,Dr. Smith,418.41,Blue cross,Complaint: headaches
+1704,Nancy Powers,1980/07/18,,MALE,I10,,76,Dr. Adams,250.5,united health,-
+1705,Robert Harper,1981/11/07,,Male,I10,111 / 74,,Dr. Adams,$378.73,BCBS,N/A
+1706,Susan Welch,2021/01/19,,Male,R51,142/86,,Dr. Smith,470.42,united health,-
+1707,Jason Herrera,"Jul 18, 1995",,Female,I10,145 / 71,,,401.94,Aetna,
+1708,Christine Johnston,1973/07/02,,Female,F32.9,123/76,,Dr. Jones,304.89,BCBS,Needs prescription refill
+1709,Sophia Johnson,2017/06/20,,female,F32.9,117/80,68,Dr. Patel,438.47,UnitedHealthCare,Depression screening
+1710,Dr. Rachel Weiss,1977/02/28,52,MALE,I25.10,112/79,99,Dr. Smith,$438.4,BlueCross,
+1711,Lisa Cooper,1980/04/27,,female,F32.9,143/88,,Dr. Patel,$386.67,,-
+1712,Crystal Miller,07-05-1985,,female,I25.10,138 / 85,,Dr. Jones,401.41,Aetna,Follow-up in 2 weeks
+1713,Christina Becker,1999.10.23,48,M,R51,133/86,66,Dr. Adams,347.96,united health,
+1714,David Edwards,1981/06/16,68,Female,I25.10,116 / 86,98,Dr. Adams,444.12,united health,N/A
+1715,Cassie Salinas,08-03-2011,36,MALE,E78.5,134 / 72,74,Dr. Patel,$407.11,,N/A
+1716,Jason Stone,06-02-1998,,MALE,I25.10,125 / 94,87,,383.91,,Complaint: headaches
+1717,Nathaniel Christensen,1998/03/06,20,F,,131 / 85,,,,,Complaint: headaches
+1718,Chad Quinn,"May 21, 2019",48,M,,128/71,74,,$253.34,AETNA,Missing lab results
+1719,Brooke Andersen,1975.09.06,,F,E78.5,149 / 87,,Dr. Smith,475.44,,Complaint: headaches
+1720,Jennifer Jackson,01-08-2008,,M,F32.9,141/77,,,347.35,Blue cross,Complaint: headaches
+1721,Ashley Rios,1985.11.13,,F,Z00.0,145/84,,,412.08,BlueCross,Complaint: headaches
+1722,Robert Larsen,2017.11.02,,Female,I25.10,,,Dr. Jones,499.3,Aetna,
+1723,Cassandra Mcdonald,2010.05.13,,Female,Z00.0,138/72,78,Dr. Adams,,Blue cross,Complaint: headaches
+1724,Lauren Hudson,"Jul 26, 1980",,Male,,149/92,63,,342.37,,
+1725,Richard Roberts,1996/02/26,,female,E11.9,140/80,91,Dr. Adams,$344.81,,Needs prescription refill
+1726,Theresa Patterson,11-14-1984,,F,I10,,,,266.62,,N/A
+1727,Amanda Sanchez,07-02-2004,27,female,J45,146 / 85,,,$379.5,united health,Follow-up in 2 weeks
+1728,Linda Coleman,2006/07/12,36,Female,Z00.0,146/88,88,Dr. Smith,292.47,Blue cross,Needs prescription refill
+1729,Christopher Mendoza,1987/02/23,28,M,E11.9,137/75,,Dr. Jones,,Aetna,Follow-up in 2 weeks
+1730,Amanda Payne,1994.08.23,,MALE,I10,132/72,,Dr. Patel,443.58,UnitedHealthCare,
+1731,Stephanie Campbell,2018/03/25,61,female,R51,131/79,,,$353.74,UnitedHealthCare,Follow-up for physical
+1732,Jessica Roy,2003.07.06,,female,F32.9,120/91,,Dr. Smith,397.13,united health,Follow-up for physical
+1733,Alexis Anderson,"Nov 20, 1990",,female,I25.10,111/81,,Dr. Patel,,UnitedHealthCare,Follow-up in 2 weeks
+1734,Lindsey Sanford,1972.06.10,,Female,I25.10,120/84,,,389.48,AETNA,Missing lab results
+1735,Scott Sellers,"Jun 25, 1989",,Female,J45,121/88,85,Dr. Smith,,AETNA,Missing lab results
+1736,Collin Barnes,1996.11.09,,MALE,I25.10,141 / 86,97,Dr. Smith,$316.02,Blue cross,Missing lab results
+1737,Michael Yu,06-07-1971,57,Male,J45,139 / 70,89,Dr. Patel,$456.48,AETNA,Missing lab results
+1738,Pamela Roman,1991.06.11,,female,I25.10,,,Dr. Adams,265.79,Blue cross,Follow-up for physical
+1739,Elizabeth Simon,2022/11/03,72,female,F32.9,124/73,91,,$495.83,Blue cross,Needs prescription refill
+1740,Toni Armstrong,1994/08/23,,M,E78.5,146 / 89,71,Dr. Patel,358.09,BlueCross,Needs prescription refill
+1741,James Barron,1985.05.18,20,Female,F32.9,131 / 75,,Dr. Adams,310.85,united health,Missing lab results
+1742,Lindsey Ruiz,2016/05/08,,F,R51,114/93,65,,$474.48,Aetna,N/A
+1743,Heather Brennan PhD,2018.06.21,,M,,149 / 76,99,Dr. Smith,456.35,AETNA,Needs prescription refill
+1744,Denise Ortiz,1979.12.16,,M,J45,120 / 70,,Dr. Adams,$456.66,BCBS,Depression screening
+1745,Gary Oconnor,"Sep 19, 2009",31,female,J45,140/79,62,,366.46,,Missing lab results
+1746,David Hansen,09-23-2012,50,Female,,125 / 82,,Dr. Smith,$472.93,Aetna,Depression screening
+1747,Jeffrey Peterson,2014.12.26,40,F,I25.10,120 / 85,,Dr. Adams,$253.6,Blue cross,N/A
+1748,Hannah Riley,2006.04.23,,F,J45,141 / 73,91,Dr. Adams,$459.28,UnitedHealthCare,
+1749,Joshua Martinez,2005.07.24,,female,F32.9,144 / 72,75,Dr. Patel,466.11,,Missing lab results
+1750,Mrs. Julie Jensen,1994.12.30,29,female,F32.9,134/73,88,Dr. Jones,$433.25,united health,Follow-up in 2 weeks
+1751,Vincent Wall,08-19-1974,,female,E11.9,134 / 89,78,,$482.05,UnitedHealthCare,Missing lab results
+1752,Jessica Higgins,2019/02/16,,female,I10,137/74,64,Dr. Smith,360.76,Blue cross,-
+1753,Katie Walton,1974/06/15,,MALE,J45,,,Dr. Patel,$263.34,united health,N/A
+1754,David Howe,"Mar 25, 1971",30,Male,E11.9,127/92,,Dr. Smith,485.42,BlueCross,-
+1755,Zachary Miller,05-10-1986,,MALE,Z00.0,130 / 81,64,Dr. Patel,422.72,UnitedHealthCare,
+1756,Jeremy Nelson,"Jun 28, 2009",44,female,I10,119 / 91,78,Dr. Adams,408.99,united health,
+1757,Stephanie Bernard,"Jun 08, 1985",23,female,F32.9,,,,$363.79,AETNA,Missing lab results
+1758,Kayla Sanders,03-04-1970,66,female,J45,138 / 83,,Dr. Adams,254.79,BCBS,Complaint: headaches
+1759,Heather Solomon,"Apr 16, 2001",67,F,F32.9,,,Dr. Jones,421.43,,Missing lab results
+1760,Julian Mccullough,1987.04.11,57,M,R51,137 / 93,,Dr. Patel,,,-
+1761,Samantha Oconnor,"Mar 21, 1978",32,Male,J45,111/74,,,480.33,Aetna,Follow-up in 1 month
+1762,Sara Hester,02-22-2011,45,Male,J45,117/81,99,Dr. Smith,263,,Depression screening
+1763,Kristin Cooper,1970.05.28,27,female,,149/86,,Dr. Smith,$311.57,UnitedHealthCare,-
+1764,Mrs. Shannon Crawford,2014/05/31,,Female,I25.10,116/85,86,Dr. Patel,450.02,united health,Needs prescription refill
+1765,Shaun Price,"Nov 08, 1973",28,F,R51,129/74,,Dr. Adams,$474.34,BlueCross,Missing lab results
+1766,Erik Gregory,1979/07/17,66,F,I10,117 / 84,90,Dr. Adams,265.6,Blue cross,Complaint: headaches
+1767,Ryan Ramirez,2002.06.11,,female,I10,148/90,71,Dr. Adams,417.33,BlueCross,
+1768,Monica Evans,1987.06.08,,female,,138 / 88,,Dr. Adams,267.76,,Depression screening
+1769,Cassandra White,1978/06/30,,Male,R51,143 / 89,,Dr. Jones,275.24,Aetna,-
+1770,William Burns,1973.03.16,71,MALE,F32.9,146 / 89,62,Dr. Smith,$439.82,AETNA,
+1771,Samuel Brooks,12-15-2016,,Male,I25.10,149 / 81,,Dr. Adams,$319.59,,Depression screening
+1772,Betty Jones,1974.07.21,59,MALE,J45,117/93,,Dr. Patel,282.42,Aetna,Follow-up for physical
+1773,Vernon Davis,03-07-2016,,MALE,Z00.0,145 / 82,,Dr. Adams,302.63,BlueCross,Follow-up for physical
+1774,Zachary Graham,1996/11/17,,M,I10,140 / 87,97,Dr. Jones,$496.68,AETNA,Needs prescription refill
+1775,Robert Moreno,1981/04/14,75,MALE,I25.10,131/71,90,,426.67,,N/A
+1776,Richard Khan,2012/04/18,,Male,J45,114/75,,Dr. Adams,325.91,,
+1777,Nicholas Peters,"Jan 14, 2017",43,M,Z00.0,132/86,60,Dr. Adams,$496.06,Aetna,Missing lab results
+1778,Megan Taylor,1992/01/17,61,Female,F32.9,143/78,81,Dr. Smith,$336.77,BCBS,-
+1779,Natalie Mcdonald,"Mar 28, 1993",37,Male,Z00.0,121/77,76,Dr. Smith,299.81,,Complaint: headaches
+1780,Alexandra Mccoy,1987.08.23,34,Female,E78.5,148 / 82,,Dr. Jones,$472.38,Aetna,Follow-up for physical
+1781,Robert Adams,09-16-2011,,Male,J45,,,Dr. Patel,372.35,Blue cross,Complaint: headaches
+1782,Daniel Hall,"Jan 07, 1975",35,F,R51,121 / 81,97,Dr. Smith,$414.52,UnitedHealthCare,Follow-up for physical
+1783,John Fernandez,1986.12.06,76,M,E78.5,127 / 85,,Dr. Smith,354.04,united health,-
+1784,Sandra Davis,2008.04.28,,Male,,149 / 82,76,Dr. Adams,$293.87,BCBS,-
+1785,Tracy Sutton,2012/11/18,38,M,,135/83,,Dr. Jones,$307.46,,Follow-up in 1 month
+1786,Katelyn Howell,1976.06.21,,M,J45,134/82,,Dr. Adams,415.42,Blue cross,N/A
+1787,Timothy Harding,1979/07/03,57,F,,147 / 93,87,Dr. Adams,,united health,
+1788,Alan Taylor,07-28-1982,49,MALE,I25.10,137/72,,Dr. Adams,$321.43,Blue cross,N/A
+1789,Dr. Robert Werner DDS,02-18-1989,,Female,Z00.0,,,Dr. Patel,$285.75,BlueCross,-
+1790,Kathleen Cox,1992/03/02,,Male,R51,144/79,,Dr. Smith,$271.75,Aetna,Follow-up for physical
+1791,David James Jr.,"Feb 11, 1995",68,Male,R51,140/74,84,Dr. Jones,305.13,Blue cross,Complaint: headaches
+1792,Deborah Chen,1973.11.25,,female,,129 / 76,,Dr. Adams,250.16,,N/A
+1793,Kendra Welch,1997.10.09,,female,F32.9,129/89,,Dr. Adams,437.57,BCBS,-
+1794,Michael Marshall,06-03-2005,,Female,Z00.0,,74,Dr. Adams,273.44,united health,Missing lab results
+1795,Tony Mcintyre,2010/09/24,,Female,I25.10,136/82,,Dr. Smith,402.49,BlueCross,
+1796,Kristin Escobar,2018/08/04,,Male,E11.9,122/76,96,Dr. Jones,443.13,Aetna,N/A
+1797,Meagan Parker,"Jan 15, 1999",35,Male,E11.9,111/91,77,Dr. Jones,399.23,AETNA,N/A
+1798,Jack Carroll,"Oct 15, 1978",58,Female,E78.5,,,Dr. Smith,456.89,Blue cross,Follow-up in 1 month
+1799,Lori Beasley,2006.11.19,32,F,J45,,,Dr. Adams,$306.69,Aetna,-
+1800,Brittany Griffin,2009/05/07,34,female,E11.9,119/81,90,Dr. Patel,262.56,Blue cross,Follow-up for physical
+1801,Ralph Edwards,"Sep 02, 1972",,MALE,J45,142/94,,,499.1,Aetna,
+1802,Jeremiah Carroll,"Jul 16, 1985",63,Male,Z00.0,120/71,75,Dr. Jones,334,BCBS,N/A
+1803,Thomas Woodard,2002.01.21,31,F,I25.10,123 / 94,,Dr. Patel,480.59,BCBS,N/A
+1804,Bobby Jacobs,1971.06.12,31,F,F32.9,149/79,70,Dr. Patel,281.37,united health,Complaint: headaches
+1805,Ronald Juarez,09-25-1979,36,MALE,,141/90,,Dr. Jones,482.29,united health,Missing lab results
+1806,Mark Miller,1980.12.14,,Female,I10,147 / 74,67,Dr. Jones,320.7,BCBS,Needs prescription refill
+1807,Sara Harvey,1976/06/12,70,MALE,F32.9,133/86,,Dr. Adams,333.05,BCBS,Complaint: headaches
+1808,Eileen Morris,01-26-1996,21,F,R51,,,Dr. Smith,399.32,BCBS,Follow-up in 2 weeks
+1809,Tiffany Griffin,"Dec 27, 1991",25,Male,E78.5,,97,,$399.91,BCBS,Follow-up in 1 month
+1810,Sarah Silva,03-13-2001,,female,R51,131/86,,Dr. Jones,320.4,BlueCross,
+1811,Allen Smith,1993.03.20,77,Male,F32.9,141/86,95,Dr. Smith,$358.91,Aetna,-
+1812,Lisa Schmidt,1986/05/26,,M,E11.9,144/83,,Dr. Adams,$360.7,,N/A
+1813,Charles Wilson,"Nov 22, 1971",,F,I25.10,127/85,99,Dr. Adams,483.87,,-
+1814,Jared Mullen,2020/07/20,,Male,R51,125/87,,Dr. Patel,$482.16,united health,
+1815,Theresa Blake,1984.03.17,63,M,E78.5,118/84,,Dr. Patel,290.7,BlueCross,
+1816,Kenneth Blackwell,"Jan 27, 2013",,M,E11.9,121 / 93,73,Dr. Patel,361.68,UnitedHealthCare,Complaint: headaches
+1817,Christine Macdonald,1977/06/23,53,female,E11.9,133/91,,Dr. Smith,$411.88,,Depression screening
+1818,Jennifer Mccoy,"Aug 17, 2010",,Female,I25.10,,83,Dr. Adams,278.7,BCBS,N/A
+1819,Joshua Kelly,05-24-1971,,Female,R51,124/72,71,Dr. Jones,415.88,,-
+1820,Wesley Jones,1975/03/11,45,MALE,E11.9,143/92,,Dr. Jones,$473.89,Aetna,Follow-up in 1 month
+1821,Carolyn Robertson,"Aug 27, 1975",,F,R51,132 / 85,,Dr. Smith,$422.76,BCBS,Depression screening
+1822,Charles Jordan,1990.04.20,,M,I25.10,134 / 71,89,Dr. Smith,335.53,Aetna,Complaint: headaches
+1823,Victor White,2020/03/16,,female,J45,131/90,,Dr. Patel,321.99,AETNA,Needs prescription refill
+1824,Gavin Walton,2010.11.04,,female,I10,124 / 83,84,Dr. Jones,$395.9,,N/A
+1825,Veronica Schmidt,1992/08/10,77,Female,F32.9,115/86,,,395.35,AETNA,Missing lab results
+1826,Michelle Cummings,2015/12/17,,Male,F32.9,144 / 91,99,Dr. Patel,424.92,united health,Depression screening
+1827,Roy Miles,"Jul 30, 2003",,Male,,119 / 94,67,Dr. Patel,313.48,,Follow-up in 2 weeks
+1828,Olivia Hill,1983/02/25,,F,E78.5,,97,,306.57,Blue cross,N/A
+1829,Jon Gill,1972.08.10,,Male,Z00.0,111 / 70,,Dr. Adams,$404.24,BlueCross,Missing lab results
+1830,Victor Cox,2021.11.07,,M,J45,121/76,85,Dr. Smith,$391.99,,Follow-up for physical
+1831,Jennifer Rice,08-13-2015,,MALE,E78.5,,98,Dr. Smith,445.51,UnitedHealthCare,Follow-up in 2 weeks
+1832,Tina Huber,1996.07.20,75,Female,I25.10,143 / 92,,,256.81,AETNA,N/A
+1833,Christopher Holmes,1982.04.10,20,MALE,E11.9,,96,Dr. Adams,393.61,BCBS,
+1834,Brandon Patterson,1987/10/09,76,Female,E78.5,130/84,,Dr. Patel,,Aetna,Follow-up in 1 month
+1835,John Berg,2016.06.13,,female,I25.10,147 / 72,,,289.58,Blue cross,N/A
+1836,Margaret Whitehead,1998/02/04,36,Female,,135/82,,,366.67,Blue cross,Missing lab results
+1837,Cynthia Pope,2020.11.27,33,Male,F32.9,115/72,73,Dr. Smith,284.9,BlueCross,Needs prescription refill
+1838,Raymond Brown,1996.11.11,,F,,136 / 82,90,Dr. Jones,301.06,AETNA,Complaint: headaches
+1839,Holly Lawson,2022/07/01,,M,E78.5,115 / 74,,Dr. Patel,420.97,,-
+1840,Kevin Lara,05-20-2018,,F,I10,,,Dr. Patel,351.94,UnitedHealthCare,Follow-up for physical
+1841,Samuel Morales,1974.06.22,25,F,E78.5,127 / 73,76,,428.69,,N/A
+1842,Brian Thomas,2020.11.12,32,Female,F32.9,124/88,94,Dr. Jones,$412.06,Blue cross,
+1843,Colleen Rodriguez,2024/09/22,,female,Z00.0,144 / 85,,Dr. Jones,402.96,BCBS,Follow-up in 2 weeks
+1844,Christopher Robertson,11-07-1980,36,Male,J45,110/72,,Dr. Adams,353.29,Aetna,-
+1845,Travis Wilson,1982.12.30,,F,Z00.0,123 / 74,74,Dr. Jones,322,Blue cross,Missing lab results
+1846,Denise Luna MD,2019/09/13,59,Male,E11.9,125 / 85,63,Dr. Jones,305.02,united health,Complaint: headaches
+1847,Kyle Clark,01-09-2016,51,Male,F32.9,,,Dr. Jones,492.17,UnitedHealthCare,Depression screening
+1848,Valerie Montgomery,2009/05/06,50,Male,J45,148/82,,Dr. Jones,262.55,AETNA,
+1849,Leslie Owens,1978/01/18,63,female,Z00.0,148 / 79,,Dr. Jones,329.15,united health,Follow-up for physical
+1850,Mrs. April Stephens,"Feb 06, 1980",35,Male,R51,139 / 79,,Dr. Adams,260.76,Blue cross,Follow-up for physical
+1851,Randy Brandt,2019/05/05,72,F,F32.9,148 / 71,82,Dr. Adams,252.01,Aetna,Complaint: headaches
+1852,Emily Olson,1976/09/28,,MALE,Z00.0,113 / 92,,,358.44,Aetna,Follow-up for physical
+1853,Brandon Wright,2017.08.25,,F,E78.5,141 / 78,,Dr. Jones,393.26,Aetna,
+1854,Marcus Jones,06-29-1987,,female,,112 / 79,70,Dr. Patel,$494.59,united health,Missing lab results
+1855,Holly Solis,1982/06/24,23,M,J45,113 / 86,78,Dr. Jones,$464.3,UnitedHealthCare,-
+1856,Natalie White,2011.12.06,,MALE,E78.5,144 / 91,,Dr. Smith,345.56,Blue cross,
+1857,Tara Velez,1995/01/10,74,F,R51,122 / 79,,,256.44,,Missing lab results
+1858,Stephanie Jones,"Sep 27, 1991",,MALE,R51,132 / 83,,Dr. Jones,422.01,BlueCross,Depression screening
+1859,Mrs. Sabrina Murray,"Sep 06, 2022",68,F,I10,118/92,,Dr. Jones,$266.42,,Needs prescription refill
+1860,William Roberts,2019/05/08,66,M,F32.9,,,,292.73,AETNA,Depression screening
+1861,Robert Hebert,02-17-2003,67,MALE,E11.9,,,Dr. Jones,474.49,,-
+1862,Ashley Smith,"Aug 11, 2003",,female,R51,139/92,,Dr. Jones,451.24,Blue cross,Follow-up in 2 weeks
+1863,Sergio Copeland,1994.01.12,,M,F32.9,144 / 89,,,308.45,BCBS,
+1864,Todd Coleman,1999/03/24,30,female,E11.9,130 / 91,66,,316.13,AETNA,-
+1865,Alan Ryan,02-15-1971,,M,E11.9,127/91,,Dr. Adams,$393.49,AETNA,Follow-up in 2 weeks
+1866,Daniel Rogers,1998.01.30,,Female,I25.10,127 / 72,,Dr. Adams,252.83,UnitedHealthCare,Needs prescription refill
+1867,Caitlin Smith,2019/07/14,63,MALE,E11.9,121 / 82,63,,251.56,,-
+1868,Gerald Cox,2010.04.11,45,Female,Z00.0,136/84,67,,282.99,united health,Follow-up in 2 weeks
+1869,Amanda Reese,1986.07.06,,Male,I25.10,149 / 81,,Dr. Smith,290.83,BCBS,Complaint: headaches
+1870,Christina Williams,"Dec 13, 1977",,Male,I25.10,145 / 90,67,,$272.48,BCBS,
+1871,Kimberly Carey,"Jul 10, 2015",,F,,138/84,71,Dr. Jones,$270.88,BlueCross,
+1872,Stephen Erickson,01-11-1984,,MALE,E11.9,119/76,96,,$333.6,Aetna,Depression screening
+1873,Jason Delgado,10-11-1985,55,Female,R51,128/82,,Dr. Jones,324.1,AETNA,Needs prescription refill
+1874,Anthony Martin,"Feb 14, 1977",,female,E11.9,138 / 89,,Dr. Jones,336.64,BlueCross,N/A
+1875,John Stewart,"Dec 15, 1977",,Female,I10,141/85,77,,456.84,BlueCross,Follow-up in 2 weeks
+1876,Rebecca Schmidt MD,"Aug 19, 2002",49,MALE,,128 / 92,,Dr. Patel,450.71,AETNA,Follow-up for physical
+1877,Tony Knight PhD,"Apr 06, 2012",,M,R51,138/73,,Dr. Patel,473.92,AETNA,Missing lab results
+1878,Donald Phillips,01-01-2007,55,female,I10,148 / 88,,Dr. Adams,$310.13,,Follow-up for physical
+1879,Christopher Adkins,"Aug 16, 1994",66,Female,F32.9,129/78,,Dr. Smith,276.4,BCBS,Needs prescription refill
+1880,Chad Grimes,1993.03.12,,F,F32.9,132 / 80,,Dr. Smith,417.82,Blue cross,Complaint: headaches
+1881,Lisa Hill,01-15-1982,,M,Z00.0,143 / 82,,Dr. Adams,$376.15,Aetna,
+1882,Tyler Johnson,1980/10/23,23,M,E11.9,139 / 72,,Dr. Patel,$394.45,AETNA,Needs prescription refill
+1883,Maria Sanchez,"Jan 27, 2003",50,female,I10,,,Dr. Patel,358.59,BCBS,Missing lab results
+1884,Rachel Farmer,1993.07.01,,female,E78.5,111/93,,Dr. Jones,462.64,,Complaint: headaches
+1885,Suzanne Carey,"Feb 08, 2014",65,Male,Z00.0,140/80,83,,282.29,BCBS,-
+1886,Miranda Soto,06-09-1987,,MALE,E78.5,116 / 84,71,,367.74,,Missing lab results
+1887,Wendy Osborne,2013/04/16,,female,R51,141/70,87,Dr. Patel,441.34,,Depression screening
+1888,Kayla Ingram,"Jan 05, 2021",,Male,F32.9,,,Dr. Patel,321.96,UnitedHealthCare,N/A
+1889,Mark Lucas,2016/05/27,69,F,J45,120 / 82,,Dr. Smith,$287.94,BlueCross,Needs prescription refill
+1890,Brianna Bowers,11-13-2003,46,Male,Z00.0,111/86,,Dr. Jones,393.84,BlueCross,-
+1891,Kathleen Robertson,09-12-2024,,F,J45,147/94,91,Dr. Patel,366.02,BlueCross,Depression screening
+1892,Monique Moore,2004/10/21,,Male,J45,142 / 82,,Dr. Adams,$415.29,AETNA,Complaint: headaches
+1893,Christopher Morgan,1981/01/16,,M,F32.9,146 / 91,75,Dr. Smith,401.5,AETNA,
+1894,Ashley Moore,1981.09.26,,female,I10,136/78,,Dr. Adams,295.86,united health,Depression screening
+1895,Jeffery Brown,1971.04.24,,female,E11.9,121 / 77,,,256.96,AETNA,Complaint: headaches
+1896,Joshua Ware,"Jan 04, 1974",,M,I25.10,143 / 85,79,Dr. Jones,407.84,AETNA,Follow-up in 2 weeks
+1897,Daniel Henson,1981/12/12,20,F,I25.10,145/93,,Dr. Smith,415.96,,Follow-up in 1 month
+1898,Robert Lewis,1978/05/08,,Female,R51,138/84,71,Dr. Adams,394.22,Aetna,Complaint: headaches
+1899,Kristy Clark,"Apr 24, 2010",,female,I25.10,130 / 79,73,Dr. Smith,400.23,Aetna,N/A
+1900,Karen Williams,2018.09.14,,MALE,R51,121/91,,Dr. Jones,$285.82,Blue cross,Missing lab results
+1901,Randy Clark,2009/03/18,55,F,R51,145/91,73,Dr. Adams,424.46,,Complaint: headaches
+1902,Hunter Ramirez,"Mar 30, 1986",,M,E11.9,,,,486.48,BlueCross,N/A
+1903,Brittany Roth,10-11-2011,22,F,F32.9,141/82,75,Dr. Adams,481.07,Aetna,-
+1904,Victor Gonzalez,1997.11.09,,F,,123 / 76,,Dr. Jones,432.19,BlueCross,Follow-up for physical
+1905,Brandon Ford,"Oct 18, 1999",35,Male,R51,132/83,,Dr. Smith,283.64,AETNA,Follow-up in 1 month
+1906,Hunter Adams,1983/06/11,63,MALE,J45,143 / 74,,Dr. Jones,$411.23,Aetna,Missing lab results
+1907,Kevin Deleon,1996/07/30,,Male,,124 / 80,92,Dr. Patel,428.03,BCBS,Needs prescription refill
+1908,Rachel Matthews,1997/04/06,,Female,,128/83,,Dr. Jones,462.79,AETNA,Needs prescription refill
+1909,James Brown,2001.11.17,,F,Z00.0,129/72,,Dr. Adams,474.7,BlueCross,-
+1910,Earl Bruce,"Dec 27, 2006",,MALE,I10,134 / 91,61,Dr. Smith,497.21,AETNA,N/A
+1911,Brian Martinez,1989/04/23,46,Male,I10,117 / 92,,,284.5,united health,Follow-up in 2 weeks
+1912,Nancy Carson,1989.06.16,,Female,,141 / 80,98,Dr. Jones,$494.2,,N/A
+1913,Kathleen Baker,06-25-2013,30,MALE,J45,135 / 85,,Dr. Patel,395.68,BlueCross,-
+1914,James Jones,1982/05/19,20,Male,E78.5,110/86,61,Dr. Smith,464.89,BlueCross,-
+1915,Margaret Alvarez,2014/09/10,27,Female,I25.10,142 / 72,94,Dr. Adams,$394.62,,Depression screening
+1916,Melissa Ingram,"Aug 20, 1976",,Male,Z00.0,129 / 78,,Dr. Patel,356.48,AETNA,Needs prescription refill
+1917,Christian Martin,1996.09.02,,M,E78.5,136 / 82,72,Dr. Smith,256.42,,
+1918,David Martinez,05-11-2019,,Female,J45,131/80,,Dr. Smith,281.39,BCBS,Follow-up in 2 weeks
+1919,Janet Hall,"Feb 17, 2025",,female,I25.10,135 / 92,,Dr. Patel,442.88,Blue cross,Follow-up in 2 weeks
+1920,Randy Hall,02-18-1994,75,F,I25.10,,71,,,united health,Complaint: headaches
+1921,Abigail Cole DDS,01-17-1979,50,MALE,I10,123 / 80,,Dr. Jones,455.02,UnitedHealthCare,Needs prescription refill
+1922,Nicole Porter,2015.10.03,,M,F32.9,128/75,97,Dr. Jones,403.41,Aetna,Follow-up in 1 month
+1923,Briana Rice,08-12-1994,20,female,,149/77,66,Dr. Adams,$476.93,Aetna,Missing lab results
+1924,Morgan Bruce,"Feb 11, 2001",23,M,R51,121 / 75,71,Dr. Patel,485.39,BlueCross,Missing lab results
+1925,Brent Byrd,06-28-1972,,M,Z00.0,133 / 85,,Dr. Jones,264.22,AETNA,Follow-up in 1 month
+1926,Brian Carpenter,1978.12.17,44,MALE,E11.9,113/80,91,Dr. Jones,$419.03,Aetna,Needs prescription refill
+1927,James Dillon,"Dec 24, 2005",77,female,J45,137/91,,Dr. Jones,$387.62,AETNA,
+1928,Hannah Bowman,1974/01/18,,female,E78.5,,87,Dr. Patel,$492.33,UnitedHealthCare,Follow-up in 1 month
+1929,Brittney Lloyd,1980/09/11,45,M,E11.9,,,Dr. Smith,$291.51,UnitedHealthCare,Complaint: headaches
+1930,Fernando Johnson,"Jan 12, 2017",,M,J45,,,Dr. Patel,278.53,UnitedHealthCare,Depression screening
+1931,Latoya Hansen,"Feb 28, 1996",71,Female,R51,,84,Dr. Smith,,united health,Follow-up for physical
+1932,Robert Gardner,2007.01.17,,F,I10,147 / 92,,Dr. Jones,432.62,united health,
+1933,Christian Hart,"Feb 25, 2023",,Male,,119/79,,Dr. Smith,$395.43,Aetna,-
+1934,Misty Jennings,1996/08/28,57,M,E78.5,142/70,,Dr. Adams,433.59,,Follow-up for physical
+1935,Christie Palmer DVM,11-10-2024,,MALE,E11.9,135/73,60,,$398.81,BCBS,Follow-up in 1 month
+1936,Shane Robertson,1985.02.16,28,F,J45,144/77,83,Dr. Jones,323.87,BCBS,
+1937,Paul Sawyer,10-31-1982,71,Female,J45,136 / 83,,Dr. Patel,324.08,AETNA,Missing lab results
+1938,Randall Wise,1977.07.22,35,F,I10,140/73,96,Dr. Smith,380.92,UnitedHealthCare,N/A
+1939,Phillip Greene,"Feb 11, 2013",,Female,Z00.0,148/78,,Dr. Smith,$270.05,BlueCross,Missing lab results
+1940,Gene Jones,1985/03/21,,F,I25.10,121 / 73,,Dr. Adams,319.27,Blue cross,N/A
+1941,Chloe Peters,1985.12.24,26,M,I25.10,110 / 92,85,Dr. Smith,348.53,united health,Needs prescription refill
+1942,Kristin Goodwin,1990/01/14,,MALE,,133/91,78,,355.66,BCBS,N/A
+1943,Justin Moore,"Dec 02, 1974",,female,E78.5,142 / 79,,Dr. Patel,$487.63,Blue cross,Needs prescription refill
+1944,Sarah Obrien,04-04-2021,46,Female,J45,118/91,,Dr. Jones,453.6,BCBS,Missing lab results
+1945,Amanda Ramirez,"Aug 30, 1971",52,MALE,J45,,98,Dr. Smith,$279.11,AETNA,Follow-up in 2 weeks
+1946,Danielle Mckee,1995.07.12,37,MALE,F32.9,116/80,,Dr. Patel,438.03,Blue cross,Depression screening
+1947,Mary Owens,"Nov 06, 1991",77,Male,J45,140/80,63,Dr. Patel,397,united health,Missing lab results
+1948,Laura Hernandez,1971/09/17,,M,Z00.0,138/93,,Dr. Jones,456.48,BlueCross,Complaint: headaches
+1949,Patrick Gomez,1979.07.29,,MALE,R51,134/92,80,Dr. Jones,311.85,united health,N/A
+1950,Alex Lamb,04-07-1997,,Female,E78.5,148 / 88,,,$296.21,Blue cross,Follow-up in 1 month
+1951,Heather Johnson,1986.08.22,,Male,I25.10,141 / 74,82,,440.92,united health,Follow-up for physical
+1952,Alexandria Franklin,1987.12.24,51,Female,Z00.0,119/76,74,,360.46,UnitedHealthCare,Follow-up in 1 month
+1953,Andrew Harrison,12-05-1981,66,Female,E11.9,128/79,87,,346.68,,Missing lab results
+1954,Brittany Spence,1980/06/13,,M,E11.9,147 / 82,88,,470.89,,-
+1955,Diane Mitchell,2023.09.22,27,MALE,E78.5,129/84,,Dr. Patel,376.42,,Depression screening
+1956,Victoria Thompson,03-29-1983,40,Male,Z00.0,117 / 92,75,Dr. Jones,498.65,BCBS,Follow-up in 1 month
+1957,Kelly Barker,2013/03/28,,Male,R51,123/82,66,Dr. Jones,$444.45,UnitedHealthCare,Follow-up for physical
+1958,Linda Wright,"Mar 20, 2025",53,MALE,E78.5,131 / 93,,Dr. Smith,261.4,Aetna,N/A
+1959,Kimberly Fernandez,1993/01/02,,Female,,117/93,,Dr. Jones,362.89,,Depression screening
+1960,Stephen Gomez,09-05-1984,,M,I10,134/86,,Dr. Patel,379.64,,Complaint: headaches
+1961,Sarah Clark,1993.08.17,,M,E11.9,,65,,,BCBS,Missing lab results
+1962,Mrs. Megan Rodriguez MD,1984.10.24,24,MALE,Z00.0,134 / 87,72,Dr. Patel,$388.68,Aetna,
+1963,Sean Nelson,2006/03/13,37,F,E11.9,137 / 88,,Dr. Patel,372.41,united health,Complaint: headaches
+1964,Daniel Contreras,1992.09.26,,female,F32.9,129/70,,,497.13,,-
+1965,George Johnston,09-03-1989,67,MALE,E11.9,135 / 77,,Dr. Jones,$490.79,AETNA,
+1966,Krystal Harrison,04-04-1999,,F,I25.10,122/74,,Dr. Jones,$294.76,Aetna,Follow-up for physical
+1967,Benjamin Hunt,"Mar 29, 1990",,female,F32.9,127 / 71,69,Dr. Smith,278.09,UnitedHealthCare,-
+1968,Joy Garcia,12-09-1998,66,F,,121/84,,Dr. Jones,$406.94,BCBS,Follow-up in 2 weeks
+1969,Kelly Romero,1995.02.25,74,Male,J45,128/72,98,,421.82,AETNA,N/A
+1970,Susan Mccoy,12-17-2004,,M,E11.9,133 / 78,60,Dr. Patel,434.92,UnitedHealthCare,
+1971,Brian Green,01-04-2008,41,MALE,E78.5,128/87,71,Dr. Smith,318.16,UnitedHealthCare,N/A
+1972,Nancy Mills,1998.02.21,79,F,I10,142 / 88,87,Dr. Jones,$266.99,Blue cross,Follow-up in 1 month
+1973,John Ashley,"Sep 19, 1983",68,Male,I25.10,135 / 72,93,Dr. Adams,$353.95,united health,Needs prescription refill
+1974,Gregg Jackson,05-22-2025,,F,Z00.0,122/92,,Dr. Smith,408.2,Blue cross,
+1975,Beth Schroeder,"Jul 12, 1993",,Female,Z00.0,117/81,81,Dr. Smith,358.51,UnitedHealthCare,
+1976,Patrick Chen,06-03-1974,40,female,I25.10,110 / 75,82,Dr. Adams,417.3,BCBS,N/A
+1977,Angel Rios,"Jun 23, 2009",62,Male,R51,,77,Dr. Adams,310.95,AETNA,Follow-up for physical
+1978,Michael Esparza,2019/12/01,40,Male,E78.5,148 / 92,86,,306.15,UnitedHealthCare,Follow-up in 1 month
+1979,Collin Harrell,1986.04.30,43,Female,J45,149/88,,,260.83,Aetna,Missing lab results
+1980,Vincent Pineda,"Feb 15, 2010",,Female,I10,136/78,90,Dr. Patel,$433.76,united health,Complaint: headaches
+1981,Tonya Beck,1984/08/17,67,female,I10,122 / 86,,Dr. Smith,$315.33,UnitedHealthCare,Needs prescription refill
+1982,Teresa Montgomery,2014.12.04,,Male,Z00.0,126 / 78,61,Dr. Patel,$329.76,BlueCross,Depression screening
+1983,Emily Cooper,1973.12.15,,F,,120 / 94,,Dr. Adams,$310.64,BCBS,Missing lab results
+1984,Andrea Rivera,"Jul 09, 1970",25,Male,I10,120/83,,Dr. Smith,282.15,BlueCross,Follow-up for physical
+1985,Aaron Blair,2017/01/13,72,Female,R51,142/93,,Dr. Jones,428.6,BCBS,Needs prescription refill
+1986,Carlos Shaw,2020.09.25,71,Male,Z00.0,133/82,,Dr. Jones,410.52,Blue cross,Follow-up for physical
+1987,Joshua Liu,2016/05/24,44,female,E11.9,143 / 94,,Dr. Jones,$406.74,UnitedHealthCare,
+1988,Maria Ramsey,"Feb 24, 1988",42,Male,E78.5,134 / 85,68,Dr. Adams,331.86,united health,N/A
+1989,Jonathan Chapman,"Sep 27, 1972",,female,Z00.0,125 / 81,99,Dr. Adams,$346.18,united health,N/A
+1990,Christina Martinez,1993/10/19,44,F,Z00.0,,,Dr. Patel,457.89,AETNA,N/A
+1991,Elizabeth Mack,"Aug 01, 1996",62,MALE,F32.9,140/79,,,428.72,Aetna,-
+1992,Steven Singleton,09-02-2011,,MALE,,133/89,,Dr. Adams,340.09,BlueCross,Missing lab results
+1993,Randy Bryant,08-15-2003,50,F,R51,113 / 77,68,Dr. Jones,$449.66,UnitedHealthCare,Follow-up in 2 weeks
+1994,Dr. Nicole Scott,1978.02.22,23,M,R51,125 / 84,94,Dr. Patel,471.54,BlueCross,Depression screening
+1995,Joseph Fletcher,2012/08/30,74,female,F32.9,129 / 84,77,Dr. Patel,419.77,,Needs prescription refill
+1996,Dylan Brown,07-25-1983,,Female,,119 / 78,67,Dr. Smith,$262.31,BCBS,Needs prescription refill
+1997,Stacey Sandoval,2016.10.09,,MALE,J45,118 / 90,70,Dr. Jones,475.81,UnitedHealthCare,Depression screening
+1998,Mark Cunningham,06-04-2014,61,Male,J45,145 / 93,,Dr. Adams,$339.14,Blue cross,-
+1999,Calvin Hull,12-06-2010,,M,I10,118 / 89,,,420.12,,Depression screening
